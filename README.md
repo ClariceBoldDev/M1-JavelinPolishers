@@ -154,11 +154,16 @@ The visual look of the website is very important. As many of the group is Neurod
 
 As a woman with ASD I wanted to make the website as accessible for others as possible. One thing myself and other ND people can struggle with is typography and content. I will research what will work better for a more visual appealing and friendly website.
 
-* Font type
+* Font type:
+Part of my research was to find out which fonts where best for accessability and the following came up: Tahoma, Calibri, Helvetica, Arial, Verdana & Times New Roman.
+Slab Serif fonts including Arvo, Museo Slab and Rockwell were accessible but for headings rather than body text.
+
 * Font Size
 * Font spacing
   
 ### Imagery
+
+Hero Image: Photo by Timothy Dykes on Unsplash
 
 I used some pictures the group had taken but also used some royality free images to bolster the pages and make everything pop out.
 
@@ -171,7 +176,9 @@ I used some pictures the group had taken but also used some royality free images
 
 ### Frameworks, Libraries and Programmes
 
-* Bootstrap
+* Bootstrap - At the time of writing this readme I was using the latest version of bootstrap which was v5.3.
+* Favicon.io: A custom D20 (20 sided dice was added to my wesbite using Favicon.io)
+* Fontawesome.com: Was used for Icons across the site.
 
 ### Future Ideas
 
@@ -183,7 +190,11 @@ I used some pictures the group had taken but also used some royality free images
 
 ### Bugs
 
+Is my site accessable (siteimprove.com):
+
 ### Accessability
+
+Part of building this website was to factor in how to make the site more accessabile to everyone. Big blocks of long text, different fonts and size can all have an impact on how easy the site is to navigate. I used a service called Siteimprove.com to help me work out what was working and what wasnt for accessability.
 
 ## Deployment
 
