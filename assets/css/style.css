@@ -1,2 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,300;0,400;1,100;1,300;1,400&display=swap');
+
+body { 
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+/* ------Header------ */
+
+
+
+/* ------Nav Bar------ */
+
+nav {
+    line-height:75px;
+    background-color: ;
+
+}
+
+.navbar-brand {
+    font-family: "Arvo", serif;
+    text-transform:capitalize;
+    font-size: 280%;
+    letter-spacing: 2px;
+    
+}
+
+.navbar-nav {
+    font-family: "Arvo", serif;
+    text-transform: capitalize;
+    font-size: 110%;
+    letter-spacing: 2px;
+}
+
+#navbar a:hover {
+    border-bottom:1px solid #10cae0;
+}
+
 /* ------Hero Image------ */
+
+#hero-image {
+    height:600px;
+    width:100%;
+    background:url("../images/dicehero.jpg") no-repeat center center ;
+    
+}
+
+
+
+/* ------Index section one------ */
+
+.game-dreams {
+padding: 5px;
+
+}
+/* ------Colours------ */
+
+
+
+
+
 

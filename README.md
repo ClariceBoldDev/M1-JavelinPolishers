@@ -142,7 +142,7 @@ The visual look of the website is very important. As many of the group is Neurod
 ### Structure
 
 * Home
-  Team
+* Members
 * Shedule
 * Contact
 
