@@ -1,26 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,300;0,400;1,100;1,300;1,400&display=swap');
 
-body { 
+body {
     font-family: Tahoma, Verdana, sans-serif;
-    
+
 }
 
 /* ------Nav Bar------ */
 
 nav {
-    line-height:75px;
+    line-height: 75px;
     height: 15vh;
-  
-    
+
+
 
 }
 
 .navbar-brand {
     font-family: "Arvo", serif;
-    text-transform:capitalize;
+    text-transform: capitalize;
     font-size: 280%;
     letter-spacing: 2px;
-    
+
 }
 
 .navbar-nav {
@@ -32,17 +32,17 @@ nav {
 }
 
 #navbar a:hover {
-    border-bottom:1px solid #10cae0;
+    border-bottom: 1px solid #10cae0;
 }
 
 /* ------Hero Image------ */
 
 #hero-image {
-    height:600px;
-    width:100%;
-    background:url("../images/dicehero.jpg") no-repeat center center ;  
-    
-    animation-name: hero-zoom ;
+    height: 600px;
+    width: 100%;
+    background: url("../images/dicehero.jpg") no-repeat center center;
+
+    animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: backwards;
 }
@@ -55,22 +55,30 @@ nav {
 
 @keyframes hero-zoom {
     from {
-            transform: scale(1);
+        transform: scale(1);
     }
+
     to {
-            transform: scale(1.1);
+        transform: scale(1.1);
     }
 }
 
-/* ------Index section one------ */
-
-/* ------Colours------ */
 
 
-/* ------Footer------ */
+/* ------Footer ------ */
+
+.copyright {
+width: 100%;
+color: #10cae0;
+margin-top: 0;
+}
+
+
 footer {
-    height:150px;
-    padding-top: 10px;
+    height: 150px;
+    margin-top: 0;
+    
+
 
 }
 
@@ -79,8 +87,11 @@ footer {
     text-align: center;
     line-height: 60px;
     padding-top: 0%;
-  
-        
+    margin: 0;
+    height:200px;
+
+
+
 }
 
 .footer-list li {
@@ -88,23 +99,27 @@ footer {
 }
 
 .footer-list i {
-    font-size:160% ;
+    font-size: 180%;
     margin: 1%;
     padding: 5%;
     color: #10cae0;
 }
 
-#map {
-    width:100%;
+.map {
+    width: 100%;
     padding-bottom: 0%;
+    height:300px;
+    margin-bottom: 0;
 }
 
-.address {
-    padding-left: 10px;
+.created-by {
+    color:#7ae0ec;
 }
 
+/* ------Responsive------ */
 
-
-
-
-
+.navrbar {
+    .navbar-expand {
+            -sm|-md|-lg|-xl|-xxl
+        }
+}
