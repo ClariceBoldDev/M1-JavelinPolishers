@@ -7,27 +7,16 @@ body {
 
 /* ------Nav Bar------ */
 
-nav {
-    line-height: 75px;
-    height: 15vh;
-
-
-
-}
-
 .navbar-brand {
-    font-family: "Arvo", serif;
-    text-transform: capitalize;
-    font-size: 280%;
-    letter-spacing: 2px;
+font-family: "Arvo", serif;
+text-transform: capitalize;
 
 }
+
 
 .navbar-nav {
     font-family: "Arvo", serif;
     text-transform: capitalize;
-    font-size: 110%;
-    letter-spacing: 2px;
     color: aliceblue;
 }
 
@@ -40,16 +29,17 @@ nav {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url("../images/dicehero.jpg") no-repeat center center;
+    background: url("../images/d20.jpg") no-repeat center center;
+    object-fit: contain;
+    background-size: cover;
 
     animation-name: hero-zoom;
     animation-duration: 5s;
-    animation-fill-mode: backwards;
+    animation-fill-mode: forwards;
 }
 
 #hero-outer {
-    height: 600px;
-    width: 100%;
+
     overflow: hidden;
 }
 
@@ -59,51 +49,13 @@ nav {
     }
 
     to {
-        transform: scale(1.1);
+        transform: scale(1.05);
     }
 }
 
 
 
 /* ------Footer ------ */
-
-.copyright {
-width: 100%;
-color: #10cae0;
-margin-top: 0;
-}
-
-
-footer {
-    height: 150px;
-    margin-top: 0;
-    
-
-
-}
-
-.footer-list {
-    list-style: none;
-    text-align: center;
-    line-height: 60px;
-    padding-top: 0%;
-    margin: 0;
-    height:200px;
-
-
-
-}
-
-.footer-list li {
-    display: inline;
-}
-
-.footer-list i {
-    font-size: 180%;
-    margin: 1%;
-    padding: 5%;
-    color: #10cae0;
-}
 
 .map {
     width: 100%;
@@ -112,14 +64,5 @@ footer {
     margin-bottom: 0;
 }
 
-.created-by {
-    color:#7ae0ec;
-}
 
 /* ------Responsive------ */
-
-.navrbar {
-    .navbar-expand {
-            -sm|-md|-lg|-xl|-xxl
-        }
-}

@@ -180,6 +180,10 @@ I used some pictures the group had taken but also used some royality free images
 * Favicon.io: A custom D20 (20 sided dice was added to my wesbite using Favicon.io)
 * Fontawesome.com: Was used for Icons across the site.
 
+### Websites
+
+* <https://mdbootstrap.com/> -  For my footer.
+
 ### Future Ideas
 
 ## Testing
