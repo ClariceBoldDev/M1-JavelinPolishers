@@ -2,9 +2,9 @@
 
 Created by Clarice Boldon
 
-To view the Live project Click Here! */ Insert live link later*/
+To view the Live project Click Here! _/ Insert live link later_/
 
-*/ Insert screen view of main pages on various devices*/
+_/ Insert screen view of main pages on various devices_/
 
 This is the main website of my local gaming group.
 
@@ -16,40 +16,47 @@ This is the readme file and documentation to go alongside this project. The proj
 
 1. Project Planning & User Experience.
 
-   * Purpose of Project User Experience (UX)
-   * Client Goals
-   * About my Client
-   * User Goals (First Visit, Returning and Frequent users)
-   * The Five Planes
+   - Purpose of Project User Experience (UX)
+   - Client Goals
+   - About my Client
+   - User Goals (First Visit, Returning and Frequent users)
+   - The Five Planes
 
 2. Design layout & Structure.
 
-   * Wireframe
-   * Structure
-   * Colour Palette
-   * Typography
-   * Imagery
-  
+   - Wireframe
+   - Structure
+   - Colour Palette
+   - Typography
+   - Imagery
+
+### Wireframe
+
+### Structure
+
+### Colour Palette
+
 3. Technologies Used.
 
-   * Languages
-   * Frameworks, Libraries and Programs used
- Bootstrap: v5.3.1
- Favicon.io
+   - Languages
+   - Frameworks, Libraries and Programs used
+     Bootstrap: v5.3.1
+     Favicon.io
 
-   * Future Ideas (Blog, booking form, price list)
+   - Future Ideas (Blog, booking form, price list)
 
-4. Testing.
+1. Testing.
 
-   * Wc3
-   * Peer Review
-   * Bugs
-   * Accessibility
+   - Wc3
+   - Peer Review
+   - Bugs
+   - Accessibility
 
-5. Deployment.
-   *
+1. Deployment.
 
-6. Credits.
+   -
+
+1. Credits.
 
 ## Project Planning & User Experience (UX)
 
@@ -65,37 +72,37 @@ The group consist of seven friends from in and around the local area of Neath Po
 
 ### User Goals
 
-* To view who the group are
-* To view a shedule
-* To check for updates including live streams
-* To contact the group to join the waiting list or to ask a question.
+- To view who the group are
+- To view a shedule
+- To check for updates including live streams
+- To contact the group to join the waiting list or to ask a question.
 
 ### Group Goals
 
-* To have a easy to follow shedule
-* To have a professional looking website
-* To develop a online presence and build up a potential fan base
-* To gain potential players on a waiting list.
-  
+- To have a easy to follow shedule
+- To have a professional looking website
+- To develop a online presence and build up a potential fan base
+- To gain potential players on a waiting list.
+
 ### First Time Visitor
 
-* A first time visitor will want to quickly find a way to contact the group, they can do htis via the contact me page.
-* They will likely want to see what games are being played or what the future shedules look like.  
-* They may use it to find socila media pages
-* #The may use it to join the waiting list to join games.
-* The may use it to find out who is in the group and if its an inclusive space.
+- A first time visitor will want to quickly find a way to contact the group, they can do htis via the contact me page.
+- They will likely want to see what games are being played or what the future shedules look like.
+- They may use it to find socila media pages
+- #The may use it to join the waiting list to join games.
+- The may use it to find out who is in the group and if its an inclusive space.
 
 ### Returning Visitors
 
-* A returning visitor would likely want to view an ongoing shedule and future games.
-* They may have forgotten contact infomation or social links so are coming back to get in touch or follow the group.
-* They could also just be looking for updates on waiting list and future events.
+- A returning visitor would likely want to view an ongoing shedule and future games.
+- They may have forgotten contact infomation or social links so are coming back to get in touch or follow the group.
+- They could also just be looking for updates on waiting list and future events.
 
 ### Frequent Visitors
 
-* Will likely be there to find out what is happening on the shedule.
-* They will use the site to view updated and new or events.
-* They will also likely go to the waiting list to see if any spots have opened.
+- Will likely be there to find out what is happening on the shedule.
+- They will use the site to view updated and new or events.
+- They will also likely go to the waiting list to see if any spots have opened.
 
 ## The Five Planes
 
@@ -137,33 +144,35 @@ The visual look of the website is very important. As many of the group is Neurod
 
 ### Wireframes
 
- (Wireframe will be added here)
+(Wireframe will be added here)
 
 ### Structure
 
-* Home
-* Members
-* Shedule
-* Contact
+- Home
+- Members
+- Shedule
+- Contact
 
 ### Colour Palette
 
- (Add a colour paltte image here)
+(Add a colour paltte image here)
 
 ### Typography
 
 As a woman with ASD I wanted to make the website as accessible for others as possible. One thing myself and other ND people can struggle with is typography and content. I will research what will work better for a more visual appealing and friendly website.
 
-* Font type:
-Part of my research was to find out which fonts where best for accessability and the following came up: Tahoma, Calibri, Helvetica, Arial, Verdana & Times New Roman.
-Slab Serif fonts including Arvo, Museo Slab and Rockwell were accessible but for headings rather than body text.
+- Font type:
+  Part of my research was to find out which fonts where best for accessability and the following came up: Tahoma, Calibri, Helvetica, Arial, Verdana & Times New Roman.
+  Slab Serif fonts including Arvo, Museo Slab and Rockwell were accessible but for headings rather than body text.
 
-* Font Size
-* Font spacing
-  
+- Font Size
+- Font spacing
+
 ### Imagery
 
-Hero Image: Photo by Timothy Dykes on Unsplash
+- Hero Image: Photo by Timothy Dykes on Unsplash
+
+- Handrawrn map image: Photo by >Patrick Fobian on unsplash
 
 I used some pictures the group had taken but also used some royality free images to bolster the pages and make everything pop out.
 
@@ -171,18 +180,19 @@ I used some pictures the group had taken but also used some royality free images
 
 ### Languages
 
-* Html 5
-* CSS
+- Html 5
+- CSS
 
 ### Frameworks, Libraries and Programmes
 
-* Bootstrap - At the time of writing this readme I was using the latest version of bootstrap which was v5.3.
-* Favicon.io: A custom D20 (20 sided dice was added to my wesbite using Favicon.io)
-* Fontawesome.com: Was used for Icons across the site.
+- Bootstrap - At the time of writing this readme I was using the latest version of bootstrap which was v5.3.
+- Favicon.io: A custom D20 (20 sided dice was added to my wesbite using Favicon.io)
+- Fontawesome.com: Was used for Icons across the site.
 
 ### Websites
 
-* <https://mdbootstrap.com/> -  For my footer.
+- I used <https://mdbootstrap.com/> - For my footer.
+- For the Profile member section I used <https://mdbootstrap.com/>.
 
 ### Future Ideas
 
