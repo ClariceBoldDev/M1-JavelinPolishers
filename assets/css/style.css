@@ -141,8 +141,17 @@ p {
     text-align: center;
 }
 
-.card {
-    margin-bottom: 10px;
+.card-img-top {
+    width: 50%;
+    height: 50%;
+    border-radius: 75%;
+    object-fit: cover;
+    border: 8px solid #1794a2;
+}
+
+.btn-member {
+    background-color: #1794a2;
+    color: #f8f9fa;
 }
 
 /* ------Schedule page ------ */

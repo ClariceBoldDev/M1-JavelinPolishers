@@ -4,7 +4,7 @@ Created by Clarice Boldon
 
 To view the Live project Click Here! _/ Insert live link later_/
 
-_/ Insert screen view of main pages on various devices_/
+![Responsive Images on various devices](/assets/images/am-i-responsive.jpg))
 
 This is the main website of my local gaming group.
 
@@ -45,16 +45,27 @@ This is the readme file and documentation to go alongside this project. The proj
 
    - Future Ideas (Blog, booking form, price list)
 
-1. Testing.
+4. Testing.
 
    - Wc3
    - Peer Review
    - Bugs
    - Accessibility
 
-1. Deployment.
+5. Deployment.
 
-   -
+To deploy my site I used Github Pages. Below are the steps you need to deploy them are:
+
+1. Navigate to the Github repository:[Github Repository](https://github.com/ClariceBoldon/Milestone1-JavelinPolishers)
+2. Navigate to the settings tab.  
+3. On the left hand menu, select pages. 
+4. From the Source menu select Branch main
+5. From branch select main.  
+6. Live link will be shown when published correctly.
+
+The live site link is:[JAvelin Polishers Live Website:] (<https://clariceboldon.github.io/Milestone1-JavelinPolishers/>)
+
+
 
 1. Credits.
 
@@ -211,6 +222,8 @@ Is my site accessable (siteimprove.com):
 Part of building this website was to factor in how to make the site more accessabile to everyone. Big blocks of long text, different fonts and size can all have an impact on how easy the site is to navigate. I used a service called Siteimprove.com to help me work out what was working and what wasnt for accessability.
 
 ## Deployment
+
+
 
 ## Credits
 
