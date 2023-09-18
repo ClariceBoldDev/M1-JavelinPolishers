@@ -62,6 +62,54 @@
 
         <p> To get in touch with the Javelin Polishers please fill in the form below. </p>
 
+        <h3> </h3>
+
+<div class="contact-form container px-6 my-6 bg-dark text-white rounded" action="https://formdump.codeinstitute.net" method="POST">
+    <form id="contactForm" >
+        <div class="mb-3">
+            <label class="form-label" for="name"></label>
+            <input class="form-control" id="name" type="text" placeholder="Name" data-sb-validations="required" />
+            <div class="invalid-feedback" data-sb-feedback="name:required">Name is required.</div>
+        </div>
+        <div class="mb-3">
+            <label class="form-label" for="emailAddress">Email Address</label>
+            <input class="form-control" id="emailAddress" type="email" placeholder="Email Address"
+                data-sb-validations="required,email" />
+            <div class="invalid-feedback" data-sb-feedback="emailAddress:required">Email Address is required.</div>
+            <div class="invalid-feedback" data-sb-feedback="emailAddress:email">Email Address Email is not valid.</div>
+        </div>
+        <div class="mb-3">
+            <label class="form-label" for="yourMessage">Your Message</label>
+            <textarea class="form-control" id="yourMessage" type="text" placeholder="Your Message"
+                style="height: 10rem;" data-sb-validations="required"></textarea>
+            <div class="invalid-feedback" data-sb-feedback="yourMessage:required">Your Message is required.</div>
+        </div>
+        <div class="mb-3">
+            <label class="form-label d-block">I confirm I am over 18 years of age</label>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" id="" type="radio" name="iConfirmIAmOver18YearsOfAge"
+                    data-sb-validations="required" />
+                <label class="form-check-label" for=""></label>
+            </div>
+            <div class="invalid-feedback" data-sb-feedback="iConfirmIAmOver18YearsOfAge:required">One option is
+                required.</div>
+        </div>
+        <div class="d-none" id="submitSuccessMessage">
+            <div class="text-center mb-3">
+                <div class="fw-bolder">Form submission successful!</div>
+          
+              
+            
+            </div>
+        </div>
+        <div class="d-none" id="submitErrorMessage">
+            <div class="text-center text-danger mb-3">Error sending message!</div>
+        </div>
+        <div class="d-grid">
+            <button class="btn btn-info btn-lg disabled" id="submitButton" type="submit">Submit</button>
+        </div>
+    </form>
+</div>
 
 
     <!-- Footer -->

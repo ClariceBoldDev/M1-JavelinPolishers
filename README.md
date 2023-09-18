@@ -202,8 +202,7 @@ I used some pictures the group had taken but also used some royality free images
 
 ### Websites
 
-- I used <https://mdbootstrap.com/> - For my footer.
-- For the Profile member section I used <https://mdbootstrap.com/>.
+- For my form I used https://startbootstrap.com/
 
 ### Future Ideas
 
@@ -227,6 +226,8 @@ Part of building this website was to factor in how to make the site more accessa
 
 
 ## Credits
+
+* 
 
 I would like to thank my mentor for being approachable, helpful and on the ball!
 
