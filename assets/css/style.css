@@ -34,20 +34,6 @@ body {
 
 /* ------Hero Image------ */
 
-.bgimage {
-    width: 100%;
-    height: 500px;
-    background: url("assets/images/d20.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
-}
-
-.bgimage h5 {
-    color: white;
-    text-shadow: 2px 2px #333;
-}
 
 #hero-image {
     height: 600px;
@@ -58,6 +44,7 @@ body {
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
+    position: relative;
 }
 
 #hero-outer {
@@ -72,6 +59,31 @@ body {
     to {
         transform: scale(1.05);
     }
+}
+
+#cover-text,
+#cover-text h2 {
+    color: #f8f9fa;
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: 'Oswald 100', sans-serif;
+    letter-spacing: 4px;
+    text-transform: capitalize;
+    text-align: center;
+    border-radius: 25px;
+    width: 300px;
+    height: 200px;
+    top: 40%;
+    left: 80%;
+    padding: 25px;
+    background-color: rgba(16, 203, 224, 0.281);
+    bottom: 30px;
+    overflow: hidden;
+    position: absolute;
+
+
 }
 
 /* ------Index Page------ */
@@ -100,8 +112,8 @@ body {
 .map-dnd {
     background-repeat: no-repeat;
     padding: 1px;
-    width: 225px;
-    height: 225px;
+    width: 300px;
+    height: 300px;
     float: center;
     border-radius: 50%;
     border: 5px solid #1794a2;
@@ -119,6 +131,7 @@ p {
     height: 350px;
     float: center;
     border: 10px solid #1794a2;
+    margin-bottom: 10px;
 }
 
 .support {
@@ -189,3 +202,5 @@ p {
     height: 300px;
     margin-bottom: 0;
 }
+
+/* ------Media Queries ------ */
