@@ -34,7 +34,6 @@ body {
 
 /* ------Hero Image------ */
 
-
 #hero-image {
     height: 600px;
     width: 100%;
@@ -68,7 +67,7 @@ body {
 
 #cover-text {
     font-size: 130%;
-    font-family: 'Oswald 100', sans-serif;
+    font-family: "Oswald 100", sans-serif;
     letter-spacing: 4px;
     text-transform: capitalize;
     text-align: center;
@@ -82,8 +81,6 @@ body {
     bottom: 30px;
     overflow: hidden;
     position: absolute;
-
-
 }
 
 /* ------Index Page------ */
@@ -155,11 +152,12 @@ p {
 }
 
 .card-img-top {
+
     width: 50%;
     height: 50%;
-    border-radius: 50%;
     object-fit: cover;
-    border: 8px solid #1794a2;
+    margin-bottom: 0;
+
 }
 
 .btn-member {
@@ -167,7 +165,15 @@ p {
     color: #f8f9fa;
 }
 
-.card {}
+.card-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.card-deck .card {
+    padding-bottom: 50px;
+}
 
 /* ------Schedule page ------ */
 

@@ -4,7 +4,7 @@ Created by Clarice Boldon
 
 To view the Live project Click Here! _/ Insert live link later_/
 
-![Responsive Images on various devices](/assets/images/am-i-responsive.jpg))
+![Responsive Images on various devices](/assets/images/am-i-responsive.jpg)
 
 This is the main website of my local gaming group.
 
@@ -57,15 +57,13 @@ This is the readme file and documentation to go alongside this project. The proj
 To deploy my site I used Github Pages. Below are the steps you need to deploy them are:
 
 1. Navigate to the Github repository:[Github Repository](https://github.com/ClariceBoldon/Milestone1-JavelinPolishers)
-2. Navigate to the settings tab.  
-3. On the left hand menu, select pages. 
+2. Navigate to the settings tab.
+3. On the left hand menu, select pages.
 4. From the Source menu select Branch main
-5. From branch select main.  
+5. From branch select main.
 6. Live link will be shown when published correctly.
 
 The live site link is:[JAvelin Polishers Live Website:] (<https://clariceboldon.github.io/Milestone1-JavelinPolishers/>)
-
-
 
 1. Credits.
 
@@ -202,7 +200,7 @@ I used some pictures the group had taken but also used some royality free images
 
 ### Websites
 
-- For my form I used https://startbootstrap.com/
+- For my form I used <https://startbootstrap.com/>
 
 ### Future Ideas
 
@@ -214,8 +212,8 @@ I used some pictures the group had taken but also used some royality free images
 
 ### Bugs
 
-* Bug 1: When I deployed my site, I found most of my images where not loading. I had added the images as absolute filepaths. But then changed them to relative files paths. 
-Is my site accessable (siteimprove.com):
+- Bug 1: When I deployed my site, I found most of my images where not loading. I had added the images as absolute filepaths. But then changed them to relative files paths.
+  Is my site accessable (siteimprove.com):
 
 ### Accessability
 
@@ -223,11 +221,9 @@ Part of building this website was to factor in how to make the site more accessa
 
 ## Deployment
 
-
-
 ## Credits
 
-* 
+-
 
 I would like to thank my mentor for being approachable, helpful and on the ball!
 
