@@ -182,6 +182,7 @@ As a woman with ASD I wanted to make the website as accessible for others as pos
 - Hero Image: Photo by Timothy Dykes on Unsplash
 
 - Handrawrn map image: Photo by >Patrick Fobian on unsplash
+- Paint brushes: By Ravi KAnt on Pexels 
 
 I used some pictures the group had taken but also used some royality free images to bolster the pages and make everything pop out.
 
