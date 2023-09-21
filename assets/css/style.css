@@ -124,8 +124,6 @@ p {
 .make-a-wish-img {
     background-repeat: no-repeat;
     margin-left: 10px;
-    width: 350px;
-    height: 350px;
     float: center;
     border: 10px solid #1794a2;
     margin-bottom: 10px;
@@ -153,8 +151,6 @@ p {
 
 .card-img-top {
 
-    width: 50%;
-    height: 50%;
     object-fit: scale-down;
     margin-bottom: 0;
     object-position: center;
@@ -173,8 +169,6 @@ p {
 
 .card-deck .card {
     padding-bottom: 50px;
-
-
 }
 
 /* ------Schedule page ------ */
@@ -198,8 +192,12 @@ p {
 .art-brush {
     max-width: 40%;
     max-height: 40%;
+    border-radius: 60%;
 }
 
+.paints {
+    grid-template-areas: inherit;
+}
 
 /*------ Contact Page ------ */
 

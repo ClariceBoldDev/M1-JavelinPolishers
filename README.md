@@ -214,7 +214,9 @@ I used some pictures the group had taken but also used some royality free images
 ### Bugs
 
 - Bug 1: When I deployed my site, I found most of my images where not loading. I had added the images as absolute filepaths. But then changed them to relative files paths.
-  Is my site accessable (siteimprove.com):
+  Is my site accessable (siteimprove.com)
+
+- Bug 2: My make a wish image was not responsive on Galaxy fold screens. 
 
 ### Accessability
 
