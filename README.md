@@ -2,9 +2,9 @@
 
 Created by Clarice Boldon
 
-To view the Live project Click Here! _/ Insert live link later_/
-
 ![Responsive Images on various devices](/assets/images/am-i-responsive.jpg)
+
+The live site link is:[JAvelin Polishers Live Website:] (<https://clariceboldon.github.io/Milestone1-JavelinPolishers/>)
 
 This is the main website of my local gaming group.
 
@@ -30,13 +30,13 @@ This is the readme file and documentation to go alongside this project. The proj
    - Typography
    - Imagery
 
-### Wireframe
+3. Wireframe
 
-### Structure
+4. Structure
 
-### Colour Palette
+5. Colour Palette
 
-3. Technologies Used.
+6. Technologies Used.
 
    - Languages
    - Frameworks, Libraries and Programs used
@@ -45,27 +45,16 @@ This is the readme file and documentation to go alongside this project. The proj
 
    - Future Ideas (Blog, booking form, price list)
 
-4. Testing.
+7. Testing.
 
    - Wc3
    - Peer Review
    - Bugs
    - Accessibility
 
-5. Deployment.
+8. Deployment.
 
-To deploy my site I used Github Pages. Below are the steps you need to deploy them are:
-
-1. Navigate to the Github repository:[Github Repository](https://github.com/ClariceBoldon/Milestone1-JavelinPolishers)
-2. Navigate to the settings tab.
-3. On the left hand menu, select pages.
-4. From the Source menu select Branch main
-5. From branch select main.
-6. Live link will be shown when published correctly.
-
-The live site link is:[JAvelin Polishers Live Website:] (<https://clariceboldon.github.io/Milestone1-JavelinPolishers/>)
-
-1. Credits.
+9. Credits.
 
 ## Project Planning & User Experience (UX)
 
@@ -73,39 +62,43 @@ With the principles of design I have followed the five planes of stratergy, Scop
 
 ### Purpose of the Website
 
-The purpose of the website is to showcase what the gaming goup have been doing and what they have planned this will include a shedule and upcoming events. The website will also allow others to learn a little about the group and join a waiting list.
+The purpose of the website is to showcase what the gaming group have been doing and what they have planned this will include a shedule and upcoming events. The website will also allow others to learn a little about the group and join a waiting list. There will also be a small section to book tickets to events.
 
 ### About the group
 
-The group consist of seven friends from in and around the local area of Neath Port Talbot. The group play table top roleplaying games and met through a love of Dungeons and Dragons.
+The group consist of six friends from in and around the local area of Neath Port Talbot. The group play table top roleplaying games and met through a love of Dungeons and Dragons.
 
 ### User Goals
 
 - To view who the group are
-- To view a shedule
+- To view infomation about whats on
 - To check for updates including live streams
 - To contact the group to join the waiting list or to ask a question.
+- To book a place into a session
 
 ### Group Goals
 
 - To have a easy to follow shedule
 - To have a professional looking website
-- To develop a online presence and build up a potential fan base
+- To develop a online presence and give people a chance to see whats happening
 - To gain potential players on a waiting list.
 
 ### First Time Visitor
 
-- A first time visitor will want to quickly find a way to contact the group, they can do htis via the contact me page.
+- A first time visitor will want to quickly find a way to contact the group, they can do this via the contact me page.
 - They will likely want to see what games are being played or what the future shedules look like.
-- They may use it to find socila media pages
-- #The may use it to join the waiting list to join games.
+- They may use it to find social media pages
+- The may use it to join the waiting list to join games.
 - The may use it to find out who is in the group and if its an inclusive space.
+- They may use it to book a space on an event.
 
 ### Returning Visitors
 
 - A returning visitor would likely want to view an ongoing shedule and future games.
 - They may have forgotten contact infomation or social links so are coming back to get in touch or follow the group.
 - They could also just be looking for updates on waiting list and future events.
+- They may want to join the waiting list
+- Or book into a session
 
 ### Frequent Visitors
 
@@ -122,20 +115,21 @@ Who is likely to use this site: Target Audience? Target audience is people inter
 
 Is the content relevant? I will need to make sure that the site looks professional for any interested party to view and use the site effectiantly but by having clear and infomative pages.
 
-Group Goals: The Group would love to become and offical group and a safe and inclusive space for Neurodivergant adults, Minorities and LGBTQIA+ people. They alos hope to grow and apply for grants to grow in the future.
+Group Goals: The Group would love to become and offical group and a safe and inclusive space for Neurodivergant adults, Minorities and LGBTQIA+ people. They also hope to grow and apply for grants to grow in the future.
 
 #### Scope
 
-Needs: The wesbite needs to have a contact infomation page that has a clear join the waiting list option.So that visitors can get in touch or request to join.
-It should also have infomation about who we are, what we do to make the group clear and accessible to people. It also needs to have a easy to view and read shedule so visitors can see what is going on and when.
+Needs: The website needs to have a contact infomation page that has a clear join the waiting list option.So that visitors can get in touch or request to join.
+It should also have infomation about who we are, what we do to make the group clear and accessible to people. It also needs to have a easy to view and read schedule so visitors can see what is going on and when.
 
-Must Have Pages: Home, Team, Shedule and Contact.
+Must Have Pages: Home, Shedule and Contact.
+If I have enough time I willa also include a members page, as  socila story to help others see how the group is!
 
-Potential options for later: Blog, Streaming options and application for download.
+Potential options for later: Blog, Streaming options and application form for download.
 
 #### Structure
 
-The website needs to be clear and simple structure, with easy to follow straightforward links. It needs to be consistant and meet conventions of structure to allow ease of use and user consistency.
+The website needs to be clear and simple structure, with easy to follow straight forward links. It needs to be consistant and meet conventions of structure to allow ease of use and user consistency.
 
 #### Skeleton
 
@@ -147,7 +141,7 @@ Features: The features I use must be useful, and follow the same pattern. Infoma
 
 #### Surface
 
-The visual look of the website is very important. As many of the group is Neurodivergant I want to make sure the fonts, colours, images and order of the website is as clean and appealing as possible. One issue ND people have is with certain fonts and colours, so I will research this and provide a better visual experience for them makign it more acccesible.
+The visual look of the website is very important. As many of the group is Neurodivergant I want to make sure the fonts, colours, images and order of the website is as clean and appealing as possible. One issue ND people have is with certain fonts and colours, so I will use basic colours and fonts. With minimal blocks of text to make it easier to read.
 
 ## Design Layout & Structure
 
@@ -157,14 +151,26 @@ The visual look of the website is very important. As many of the group is Neurod
 
 ### Structure
 
+Every page will contain the d20 header image, an alert to an application form for new members (to be put on a waiting list). I will also have a footer and location map on each page. 
+
 - Home
+ A simple home page, with a brief history and a nice image to greet the user. 
+ I will also add a basic news article onto this page which will be about our upcoming live stream. 
+
 - Members
-- Shedule
+A basic section detailing our group members and a small sentace each with an image displayed for everyone. 
+
+- Schedule
+I will include a small table with a list of games we are currently playing and the levels. 
+
 - Contact
+  A simple form to fill in to contact us. 
 
 ### Colour Palette
 
-(Add a colour paltte image here)
+I used bootstraps built in colors to bring my website to life. However I did use some flashes of colour throughout the site.
+
+![Color Palette](assets/images/Palette.png "a title")
 
 ### Typography
 
@@ -180,11 +186,11 @@ As a woman with ASD I wanted to make the website as accessible for others as pos
 ### Imagery
 
 - Hero Image: Photo by Timothy Dykes on Unsplash
-
+- Game play Image:Photo by Robert Coelho on Unsplash
 - Handrawrn map image: Photo by >Patrick Fobian on unsplash
-- Paint brushes: By Ravi KAnt on Pexels 
+- Paint brushes: By Ravi KAnt on Pexels
 
-I used some pictures the group had taken but also used some royality free images to bolster the pages and make everything pop out.
+I used some pictures the group had taken themselves for the member section. It was quickly appraent how much better professional images will look. But this wasnt possible for this project. I also used some royalty free images to bolster the pages and make everything pop out.
 
 ## Technologies used
 
@@ -201,13 +207,18 @@ I used some pictures the group had taken but also used some royality free images
 
 ### Websites
 
-- For my form I used <https://startbootstrap.com/>
+- For my form I used <https://startbootstrap.com/> to help me form the basic structure. I then customised it mo my own needs. 
 
 ### Future Ideas
+
+The webpage could be used into the future to stream live games. A blog could also be added as well as writing content and tables for other table top players. 
+We could also have a more detailed calender and schedule, with a more thourough booking system rather than ticketsource.
 
 ## Testing
 
 ### WC3
+
+
 
 ### Peer Review
 
@@ -216,7 +227,7 @@ I used some pictures the group had taken but also used some royality free images
 - Bug 1: When I deployed my site, I found most of my images where not loading. I had added the images as absolute filepaths. But then changed them to relative files paths.
   Is my site accessable (siteimprove.com)
 
-- Bug 2: My make a wish image was not responsive on Galaxy fold screens. 
+- Bug 2: My make a wish image was not responsive on Galaxy fold screens.To recitify this I needed to remove the class paddings and my CSS sizing options which stopped it from working correctly.
 
 ### Accessability
 
@@ -224,13 +235,25 @@ Part of building this website was to factor in how to make the site more accessa
 
 ## Deployment
 
+To deploy my site I used Github Pages. Below are the steps you need to deploy them are:
+
+1. Navigate to the Github repository:[Github Repository](https://github.com/ClariceBoldon/Milestone1-JavelinPolishers)
+2. Navigate to the settings tab.
+3. On the left hand menu, select pages.
+4. From the Source menu select Branch main
+5. From branch select main.
+6. Live link will be shown when published correctly.
+
+The live site link is:[JAvelin Polishers Live Website:] (<https://clariceboldon.github.io/Milestone1-JavelinPolishers/>)
+
 ## Credits
 
--
+Firstly I'd love to give a big shout out and thank you to my fellow students, particularly my cohort who have been a great support and help over the weeks.
 
 I would like to thank my mentor for being approachable, helpful and on the ball!
 
 I would like to thank my cohort facilitator for keeping my interest and helping the team grow.
+
 A big thanks to Code Institute staff for all their help
-I couldnt have found out have the stuff I needed without slack and the community of students, mentors, staff and alumni.
-and my peers who helped me get keep going!
+
+I couldnt have found out have the stuff I needed without slack and the community of students, mentors, staff and alumni and my peers who helped me get keep going!

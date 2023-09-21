@@ -85,15 +85,6 @@ body {
 
 /* ------Index Page------ */
 
-.history-container {
-    margin-top: 50px;
-}
-
-.index-heading {
-    text-align: center;
-    padding: 50px;
-}
-
 .index-hq {
     font-family: "Oswald", sans-serif;
     text-transform: uppercase;
@@ -103,17 +94,7 @@ body {
 }
 
 .our-history {
-    text-align: center;
-}
-
-.map-dnd {
-    background-repeat: no-repeat;
-    padding: 1px;
-    width: 300px;
-    height: 300px;
-    float: center;
-    border-radius: 50%;
-    border: 5px solid #1794a2;
+    font-family: 'Roboto', sans-serif;
 }
 
 p {
@@ -123,15 +104,13 @@ p {
 
 .make-a-wish-img {
     background-repeat: no-repeat;
-    margin-left: 10px;
-    float: center;
     border: 10px solid #1794a2;
-    margin-bottom: 10px;
+
 }
 
 .support {
     text-align: center;
-    margin-bottom: 25px;
+
     color: #343a40;
 }
 
@@ -156,10 +135,7 @@ p {
     object-position: center;
 }
 
-.btn-member {
-    background-color: #1794a2;
-    color: #f8f9fa;
-}
+
 
 .card-footer {
     position: absolute;
@@ -167,9 +143,6 @@ p {
     width: 100%;
 }
 
-.card-deck .card {
-    padding-bottom: 50px;
-}
 
 /* ------Schedule page ------ */
 
@@ -189,15 +162,6 @@ p {
     text-align: center;
 }
 
-.art-brush {
-    max-width: 40%;
-    max-height: 40%;
-    border-radius: 60%;
-}
-
-.paints {
-    grid-template-areas: inherit;
-}
 
 /*------ Contact Page ------ */
 
@@ -214,5 +178,3 @@ p {
     height: 300px;
     margin-bottom: 0;
 }
-
-/* ------Media Queries ------ */
