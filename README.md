@@ -2,9 +2,9 @@
 
 Created by Clarice Boldon
 
-![Responsive Images on various devices](/assets/images/am-i-responsive.jpg)
+![Responsive Images on various devices](assets/images/responsive-imgs.jpg)
 
-The live site link is:[JAvelin Polishers Live Website:] (<https://clariceboldon.github.io/Milestone1-JavelinPolishers/>)
+The live site link is:[Javelin Polishers Live Website:](https://clariceboldon.github.io/Milestone1-JavelinPolishers/)
 
 This is the main website of my local gaming group.
 
@@ -22,7 +22,7 @@ This is the readme file and documentation to go alongside this project. The proj
    - User Goals (First Visit, Returning and Frequent users)
    - The Five Planes
 
-2. Design layout & Structure.
+1. Design layout & Structure.
 
    - Wireframe
    - Structure
@@ -30,13 +30,13 @@ This is the readme file and documentation to go alongside this project. The proj
    - Typography
    - Imagery
 
-3. Wireframe
+1. Wireframe
 
-4. Structure
+1. Structure
 
-5. Colour Palette
+1. Colour Palette
 
-6. Technologies Used.
+1. Technologies Used.
 
    - Languages
    - Frameworks, Libraries and Programs used
@@ -45,16 +45,16 @@ This is the readme file and documentation to go alongside this project. The proj
 
    - Future Ideas (Blog, booking form, price list)
 
-7. Testing.
+1. Testing.
 
    - Wc3
    - Peer Review
    - Bugs
    - Accessibility
 
-8. Deployment.
+1. Deployment.
 
-9. Credits.
+1. Credits.
 
 ## Project Planning & User Experience (UX)
 
@@ -149,27 +149,27 @@ The visual look of the website is very important. As many of the group is Neurod
 
 #### Sitemap
 
-![Site Map](assets/images/sitemap.png "Sitemap")
+[Site Map](assets/images/sitemap.png "Sitemap")
 
 #### Index Page
 
-![Index Page](assets/images/Home.png "Home Page")
+[Index Page](assets/images/home.png "Home Page")
 
 #### Members Page
 
-![Members Page](assets/images/Members.png "Members")
+[Members Page](assets/images/members.png "Members")
 
 #### Schedule
 
-![Schedule Page](assets/images/Shedule.png "Schedule")
+[Schedule Page](assets/images/schedule.png "Schedule")
 
 #### Contact
 
-![Contact Page](assets/images/Contact.png "Contact")
+[Contact Page](assets/images/contact.png "Contact")
 
 ### Structure
 
-Every page will contain the d20 header image, an alert to an application form for new members (to be put on a waiting list). I will also have a footer and location map on each page. I will include four pages: Home, Members, Schedule and Contact. 
+Every page will contain the d20 header image, an alert to an application form for new members (to be put on a waiting list). I will also have a footer and location map on each page. I will include four pages: Home, Members, Schedule and Contact.
 
 - Header
   For my header I added a bootstrap navigation bar with a custom icon. I used font awesome to add the D20, a twenty sided dice in one of my choosen colours. I then added a large hero image of another d20 with a set of dice in the background. I choose this image as it looked clean and fitted with the general aesthetic of the website. Underneath the hero image I added a alert, the alert gives users the option to sign up to the waiting list.
@@ -198,13 +198,13 @@ Every page will contain the d20 header image, an alert to an application form fo
   Instagram
   I also added a copyright section, with a link to the Developers (me) github account.
 
-![Form Success](assets/images/form-success.jpg "Form Dump Success")
+[Form Success](assets/images/form-success.jpg "Form Dump Success")
 
 ### Colour Palette
 
 I used bootstraps built in colors to bring my website to life. However I did use some flashes of colour throughout the site.
 
-![Color Palette](assets/images/Palette.png "a title")
+![Color Palette](assets/images/palette.png "a title")
 
 ### Typography
 
@@ -256,16 +256,15 @@ My results from siteimprove:
 
 ### WC3
 
-My results from WC3: 
+My results from WC3:
 
 ### Peer Review
 
-My results from a peer review on Slack's Code Institute students and alumni: 
+My results from a peer review on Slack's Code Institute students and alumni:
 
 ### Bugs
 
 - Bug 1: When I deployed my site, I found most of my images where not loading. I had added the images as absolute filepaths. But then changed them to relative files paths.
-  
 - Bug 2: My make a wish image was not responsive on Galaxy fold screens.To recitify this I needed to remove the class paddings and my CSS sizing options which stopped it from working correctly.
 
 - Bug 3: Favicon was not loading. Issue was the imags were not linked correctly to the root directory.
@@ -274,8 +273,8 @@ My results from a peer review on Slack's Code Institute students and alumni:
 
 ### Accessability
 
-I wanted to make sure there was a strong contrast between elements and background colors, I utalised bootstrap to really draw out boxes and infomation. 
-I added Alternative text to images to ensure that visually impaired users could understand what the image was. 
+I wanted to make sure there was a strong contrast between elements and background colors, I utalised bootstrap to really draw out boxes and infomation.
+I added Alternative text to images to ensure that visually impaired users could understand what the image was.
 
 Part of building this website was to factor in how to make the site more accessabile to everyone. Big blocks of long text, different fonts and off putting colours can all have an impact on how easy the site is to navigate. I used a service called Siteimprove.com to help me work out what was working and what wasnt for accessability.
 
@@ -284,21 +283,19 @@ Part of building this website was to factor in how to make the site more accessa
 To deploy my site I used Github Pages. Below are the steps you need to deploy them are:
 
 1. Navigate to the Github repository:[Github Repository](https://github.com/ClariceBoldon/Milestone1-JavelinPolishers)
-2. Navigate to the settings tab.
-3. On the left hand menu, select pages.
-4. From the Source menu select Branch main
-5. From branch select main.
-6. Live link will be shown when published correctly.
+1. Navigate to the settings tab.
+1. On the left hand menu, select pages.
+1. From the Source menu select Branch main
+1. From branch select main.
+1. Live link will be shown when published correctly.
 
-The live site link is:[Javelin Polishers Live Website:] (<https://clariceboldon.github.io/Milestone1-JavelinPolishers/>)
-
-
+The live site link is:[Javelin Polishers Live Website:](https://clariceboldon.github.io/Milestone1-JavelinPolishers/)
 
 ## Credits
 
 Firstly I'd love to give a big shout out and thank you to my fellow students, particularly my cohort who have been a great support and help over the weeks.
 
-I would like to thank my mentor for being approachable, helpful and on the ball!
+I would like to thank my mentor for being approachable, helpful and on the ball! For helping me belive in myself and giving me the confidence I needed.
 
 I would like to thank my cohort facilitator for keeping my interest and helping the team grow, those weekly planners made a world of difference in the first few weeks!
 

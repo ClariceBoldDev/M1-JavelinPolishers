@@ -1,200 +1,211 @@
 @import url("https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Oswald:wght@200;300;400;500&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300;1,400&family=Roboto:ital,wght@0,300;0,400;1,100;1,300;1,400&display=swap");
 
 body {
-    font-family: "Roboto", sans-serif;
-    background-color: #343a40;
+  font-family: "Roboto", sans-serif;
+  background-color: #343a40;
 }
 
 /* ------Nav Bar------ */
 
 .navbar-brand {
-    font-family: "Oswald 200", sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    font-size: 280%;
+  font-family: "Oswald 200", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 280%;
 }
 
 .navbar-nav {
-    font-family: "Oswald 200", sans-serif;
-    text-transform: capitalize;
-    color: #f8f9fa;
-    font-size: 110%;
-    letter-spacing: 1px;
+  font-family: "Oswald 200", sans-serif;
+  text-transform: capitalize;
+  color: #f8f9fa;
+  font-size: 110%;
+  letter-spacing: 1px;
 }
 
 #navbar a:hover {
-    border-bottom: 1px solid #10cae0;
+  border-bottom: 1px solid #10cae0;
 }
 
+.facebook {
+  background-color: #3b5998;
+}
+
+.twitter {
+  background-color: #67b0e9;
+}
+
+.twitch {
+  background-color: #7624e2;
+}
 /* ------Hero Image------ */
 
 #hero-image {
-    height: 600px;
-    width: 100%;
-    background: url("../images/d20.jpg") no-repeat center center;
-    object-fit: scale-down;
-    background-size: cover;
-    animation-name: hero-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
-    position: relative;
+  height: 600px;
+  width: 100%;
+  background: url("../images/d20.jpg") no-repeat center center;
+  object-fit: scale-down;
+  background-size: cover;
+  animation-name: hero-zoom;
+  animation-duration: 5s;
+  animation-fill-mode: forwards;
+  position: relative;
 }
 
 #hero-outer {
-    overflow: hidden;
+  overflow: hidden;
 }
 
 @keyframes hero-zoom {
-    from {
-        transform: scale(1);
-    }
+  from {
+    transform: scale(1);
+  }
 
-    to {
-        transform: scale(1.05);
-    }
+  to {
+    transform: scale(1.05);
+  }
 }
 
 #cover-text,
 #cover-text h2 {
-    color: #f8f9fa;
+  color: #f8f9fa;
 }
 
 #cover-text {
-    font-size: 130%;
-    font-family: "Oswald 100", sans-serif;
-    letter-spacing: 4px;
-    text-transform: capitalize;
-    text-align: center;
-    border-radius: 25px;
-    width: 300px;
-    height: 200px;
-    top: 20%;
-    left: 70%;
-    padding: 25px;
-    background-color: rgba(16, 203, 224, 0.281);
-    bottom: 30px;
-    overflow: hidden;
-    position: relative;
+  font-size: 130%;
+  font-family: "Oswald 100", sans-serif;
+  letter-spacing: 4px;
+  text-transform: capitalize;
+  text-align: center;
+  border-radius: 25px;
+  width: 300px;
+  height: 200px;
+  top: 20%;
+  left: 70%;
+  padding: 25px;
+  background-color: rgba(16, 203, 224, 0.281);
+  bottom: 30px;
+  overflow: hidden;
+  position: relative;
 }
-
-@media screen and (max-width: 1020px) {
-    #cover-text {
-        font-size: 130%;
-        font-family: "Oswald 100", sans-serif;
-        letter-spacing: 4px;
-        text-transform: capitalize;
-        text-align: center;
-        top: 20%;
-        left: 30%
-    }
-}
-
-@media screen and (max-width: 815px) {
-    #cover-text {
-        font-size: 130%;
-        font-family: "Oswald 100", sans-serif;
-        letter-spacing: 4px;
-        text-transform: capitalize;
-        text-align: center;
-        top: 10%;
-        left: 5%
-    }
-}
-
-@media screen and (max-width: 370px) {
-    #cover-text {
-        font-size: 130%;
-        font-family: "Oswald 100", sans-serif;
-        letter-spacing: 4px;
-        text-transform: capitalize;
-        text-align: center;
-        top: 3%;
-        left: 8%
-    }
-}
-
 
 /* ------Index Page------ */
 
 .index-hq {
-    font-family: "Oswald", sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    font-size: 280%;
-    text-align: center;
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 280%;
+  text-align: center;
 }
 
 .our-history {
-    font-family: "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 p {
-    text-align: center;
-    font-family: "Roboto", sans-serif;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
 }
 
 .make-a-wish-img {
-    background-repeat: no-repeat;
-    border: 10px solid #1794a2;
+  background-repeat: no-repeat;
+  border: 10px solid #1794a2;
 }
 
 .support {
-    text-align: center;
+  text-align: center;
 
-    color: #343a40;
+  color: #343a40;
 }
 
 .support-heading {
-    font-family: "Oswald", sans-serif;
+  font-family: "Oswald", sans-serif;
 }
 
 /* ------Members page ------ */
 
 .meet-us {
-    font-family: "Oswald", sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    font-size: 280%;
-    text-align: center;
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 280%;
+  text-align: center;
 }
 
 .card-img-top {
-    object-fit: scale-down;
-    margin-bottom: 0;
-    object-position: center;
+  object-fit: scale-down;
+  margin-bottom: 0;
+  object-position: center;
 }
 
 .card-footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 /* ------Schedule page ------ */
 
 .whats-on {
-    font-family: "Oswald", sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    font-size: 280%;
-    text-align: center;
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 280%;
+  text-align: center;
+  padding-bottom: 25px;
 }
 
 .contact-us-heading {
-    font-family: "Oswald", sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    font-size: 280%;
-    text-align: center;
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 280%;
+  text-align: center;
 }
-
-/*------ Contact Page ------ */
 
 /* ------Footer ------ */
 
 .map {
-    width: 100%;
-    padding-bottom: 0%;
-    height: 300px;
-    margin-bottom: 0;
+  width: 100%;
+  padding-bottom: 0%;
+  height: 300px;
+  margin-bottom: 0;
+}
+
+/*------ Media Queries ------ */
+
+@media screen and (max-width: 1020px) {
+  #cover-text {
+    font-size: 130%;
+    font-family: "Oswald 100", sans-serif;
+    letter-spacing: 4px;
+    text-transform: capitalize;
+    text-align: center;
+    top: 20%;
+    left: 30%;
+  }
+}
+
+@media screen and (max-width: 815px) {
+  #cover-text {
+    font-size: 130%;
+    font-family: "Oswald 100", sans-serif;
+    letter-spacing: 4px;
+    text-transform: capitalize;
+    text-align: center;
+    top: 10%;
+    left: 5%;
+  }
+}
+
+@media screen and (max-width: 370px) {
+  #cover-text {
+    font-size: 130%;
+    font-family: "Oswald 100", sans-serif;
+    letter-spacing: 4px;
+    text-transform: capitalize;
+    text-align: center;
+    top: 3%;
+    left: 8%;
+  }
 }
