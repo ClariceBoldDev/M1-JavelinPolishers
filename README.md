@@ -123,7 +123,7 @@ Needs: The website needs to have a contact infomation page that has a clear join
 It should also have infomation about who we are, what we do to make the group clear and accessible to people. It also needs to have a easy to view and read schedule so visitors can see what is going on and when.
 
 Must Have Pages: Home, Shedule and Contact.
-If I have enough time I willa also include a members page, as  socila story to help others see how the group is!
+If I have enough time I willa also include a members page, as socila story to help others see how the group is!
 
 Potential options for later: Blog, Streaming options and application form for download.
 
@@ -147,24 +147,42 @@ The visual look of the website is very important. As many of the group is Neurod
 
 ### Wireframes
 
-(Wireframe will be added here)
+#### Sitemap
+
+![Site Map](assets/images/sitemap.png "Sitemap")
+
+#### Index Page
+
+![Index Page](assets/images/Home.png "Home Page")
+
+#### Members Page
+
+![Members Page](assets/images/Members.png "Members")
+
+#### Schedule
+
+![Schedule Page](assets/images/Shedule.png "Schedule")
+
+#### Contact
+
+![Contact Page](assets/images/Contact.png "Contact")
 
 ### Structure
 
-Every page will contain the d20 header image, an alert to an application form for new members (to be put on a waiting list). I will also have a footer and location map on each page. 
+Every page will contain the d20 header image, an alert to an application form for new members (to be put on a waiting list). I will also have a footer and location map on each page.
 
 - Home
- A simple home page, with a brief history and a nice image to greet the user. 
- I will also add a basic news article onto this page which will be about our upcoming live stream. 
+  A simple home page, with a brief history and a nice image to greet the user.
+  I will also add a basic news article onto this page which will be about our upcoming live stream.
 
 - Members
-A basic section detailing our group members and a small sentace each with an image displayed for everyone. 
+  A basic section detailing our group members and a small sentace each with an image displayed for everyone.
 
 - Schedule
-I will include a small table with a list of games we are currently playing and the levels. 
+  I will include a small table with a list of games we are currently playing and the levels.
 
 - Contact
-  A simple form to fill in to contact us. 
+  A simple form to fill in to contact us.
 
 ### Colour Palette
 
@@ -176,12 +194,12 @@ I used bootstraps built in colors to bring my website to life. However I did use
 
 As a woman with ASD I wanted to make the website as accessible for others as possible. One thing myself and other ND people can struggle with is typography and content. I will research what will work better for a more visual appealing and friendly website.
 
+Another thing I noticed that large walls of texts we're incredibly off putting and most people just don't bother to read them. So I tried to keep everything as basic and concise as I was able. 
+
 - Font type:
   Part of my research was to find out which fonts where best for accessability and the following came up: Tahoma, Calibri, Helvetica, Arial, Verdana & Times New Roman.
   Slab Serif fonts including Arvo, Museo Slab and Rockwell were accessible but for headings rather than body text.
 
-- Font Size
-- Font spacing
 
 ### Imagery
 
@@ -190,7 +208,7 @@ As a woman with ASD I wanted to make the website as accessible for others as pos
 - Handrawrn map image: Photo by >Patrick Fobian on unsplash
 - Paint brushes: By Ravi KAnt on Pexels
 
-I used some pictures the group had taken themselves for the member section. It was quickly appraent how much better professional images will look. But this wasnt possible for this project. I also used some royalty free images to bolster the pages and make everything pop out.
+I used some pictures the group had taken themselves for the member section. It was quickly apparent how much better professional images will look. But this wasnt possible for this project. I would try to make sure in future, professional images were available.  I also used some royalty free images to bolster the pages and make everything pop out.
 
 ## Technologies used
 
@@ -202,23 +220,21 @@ I used some pictures the group had taken themselves for the member section. It w
 ### Frameworks, Libraries and Programmes
 
 - Bootstrap - At the time of writing this readme I was using the latest version of bootstrap which was v5.3.
-- Favicon.io: A custom D20 (20 sided dice was added to my wesbite using Favicon.io)
 - Fontawesome.com: Was used for Icons across the site.
+- Favicon.io: Allowed me to add a custom D20 Dice to the wesbite.
 
 ### Websites
 
-- For my form I used <https://startbootstrap.com/> to help me form the basic structure. I then customised it mo my own needs. 
+- For my form I used <https://startbootstrap.com/> to get a rough guide on how I wanted the form to look. I then customised it to my own need adding and changing most of the original. 
 
 ### Future Ideas
 
-The webpage could be used into the future to stream live games. A blog could also be added as well as writing content and tables for other table top players. 
+The webpage could be used into the future to stream live games. A blog could also be added as well as writing content and tables for other table top players.
 We could also have a more detailed calender and schedule, with a more thourough booking system rather than ticketsource.
 
 ## Testing
 
 ### WC3
-
-
 
 ### Peer Review
 
@@ -228,6 +244,10 @@ We could also have a more detailed calender and schedule, with a more thourough 
   Is my site accessable (siteimprove.com)
 
 - Bug 2: My make a wish image was not responsive on Galaxy fold screens.To recitify this I needed to remove the class paddings and my CSS sizing options which stopped it from working correctly.
+
+- Bug 3: Favicon was not loading. Issue was the imags were not linked correctly to the root directory.
+
+- Bug 4: Contactform not functioning properly. I needed to change my code and add required to all the input options.  
 
 ### Accessability
 
@@ -252,8 +272,8 @@ Firstly I'd love to give a big shout out and thank you to my fellow students, pa
 
 I would like to thank my mentor for being approachable, helpful and on the ball!
 
-I would like to thank my cohort facilitator for keeping my interest and helping the team grow.
+I would like to thank my cohort facilitator for keeping my interest and helping the team grow, those weekly planners made a world of difference in the first few weeks!
 
 A big thanks to Code Institute staff for all their help
 
-I couldnt have found out have the stuff I needed without slack and the community of students, mentors, staff and alumni and my peers who helped me get keep going!
+I couldnt have found out half the infomation I needed without slack and the community of students, mentors, staff and alumni and my peers who helped me get keep going!
