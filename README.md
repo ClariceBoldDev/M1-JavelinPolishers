@@ -169,23 +169,36 @@ The visual look of the website is very important. As many of the group is Neurod
 
 ### Structure
 
-Every page will contain the d20 header image, an alert to an application form for new members (to be put on a waiting list). I will also have a footer and location map on each page.
+Every page will contain the d20 header image, an alert to an application form for new members (to be put on a waiting list). I will also have a footer and location map on each page. I will include four pages: Home, Members, Schedule and Contact. 
+
+- Header
+  For my header I added a bootstrap navigation bar with a custom icon. I used font awesome to add the D20, a twenty sided dice in one of my choosen colours. I then added a large hero image of another d20 with a set of dice in the background. I choose this image as it looked clean and fitted with the general aesthetic of the website. Underneath the hero image I added a alert, the alert gives users the option to sign up to the waiting list.
+  I used survey Monkey to create a basic application form. This would give people a chance to tell us about themselves and request to join.
 
 - Home
   A simple home page, with a brief history and a nice image to greet the user.
-  I will also add a basic news article onto this page which will be about our upcoming live stream.
+  The home page needs to be clear, and concise with a need to know only infomation base.
+  I also added a basic news article onto this page which will be about our upcoming live stream and a link to support the group. At the time of creating this webpage the group wasnt ready for the Go fund me, so a link to gofund me was added instead.
 
 - Members
-  A basic section detailing our group members and a small sentace each with an image displayed for everyone.
+  A basic section detailing the group members and a small sentence each with an image displayed for everyone. I added this as more of a social story, to allow potential Neurodivergant people the option of seeing who was in the group and following them to learn more. Only one of the members 'Clarice' had a public gaming page so I linked them all to instagram until such times as they had ready social media platforms to follow.
 
 - Schedule
-  I will include a small table with a list of games we are currently playing and the levels.
+  I have included a small table with a list of games we are currently playing and the levels. I also added some more infomation but added a further whats on section, giving the option to procure tickets to events. These were not quite ready to go so dummy links to ticketsource were added.
 
 - Contact
-  I have included a simple bootstrap form to help visitors get in contact with the group. I have added a form dump for my form for this project.
+  I have included a simple bootstrap form to help visitors get in contact with the group. I have added a form dump to code institute for my form for this project.
+
+- Footer
+  For my footer I added the loction map for quick ease in finding the group. I also added social media links these were all dummy links only going to the websites themselves. The group had yet to set up the social media sites but where looking at doing so in the near future.
+  The social media links I used were:
+  Facebook
+  Twitter
+  Twitch
+  Instagram
+  I also added a copyright section, with a link to the Developers (me) github account.
 
 ![Form Success](assets/images/form-success.jpg "Form Dump Success")
-
 
 ### Colour Palette
 
@@ -228,6 +241,7 @@ I used some pictures the group had taken themselves for the member section. It w
 ### Websites
 
 - Coolers: I developed my colour palette using coolers.
+- Surveymonkey: I used survey monkey to set up a application form to join the waiting list.
 
 ### Future Ideas
 
@@ -236,15 +250,22 @@ We could also have a more detailed calender and schedule, with a more thourough 
 
 ## Testing
 
+#### Is my site Accessible?
+
+My results from siteimprove:
+
 ### WC3
 
+My results from WC3: 
+
 ### Peer Review
+
+My results from a peer review on Slack's Code Institute students and alumni: 
 
 ### Bugs
 
 - Bug 1: When I deployed my site, I found most of my images where not loading. I had added the images as absolute filepaths. But then changed them to relative files paths.
-  Is my site accessable (siteimprove.com)
-
+  
 - Bug 2: My make a wish image was not responsive on Galaxy fold screens.To recitify this I needed to remove the class paddings and my CSS sizing options which stopped it from working correctly.
 
 - Bug 3: Favicon was not loading. Issue was the imags were not linked correctly to the root directory.
@@ -253,7 +274,10 @@ We could also have a more detailed calender and schedule, with a more thourough 
 
 ### Accessability
 
-Part of building this website was to factor in how to make the site more accessabile to everyone. Big blocks of long text, different fonts and size can all have an impact on how easy the site is to navigate. I used a service called Siteimprove.com to help me work out what was working and what wasnt for accessability.
+I wanted to make sure there was a strong contrast between elements and background colors, I utalised bootstrap to really draw out boxes and infomation. 
+I added Alternative text to images to ensure that visually impaired users could understand what the image was. 
+
+Part of building this website was to factor in how to make the site more accessabile to everyone. Big blocks of long text, different fonts and off putting colours can all have an impact on how easy the site is to navigate. I used a service called Siteimprove.com to help me work out what was working and what wasnt for accessability.
 
 ## Deployment
 
@@ -266,7 +290,9 @@ To deploy my site I used Github Pages. Below are the steps you need to deploy th
 5. From branch select main.
 6. Live link will be shown when published correctly.
 
-The live site link is:[JAvelin Polishers Live Website:] (<https://clariceboldon.github.io/Milestone1-JavelinPolishers/>)
+The live site link is:[Javelin Polishers Live Website:] (<https://clariceboldon.github.io/Milestone1-JavelinPolishers/>)
+
+
 
 ## Credits
 
