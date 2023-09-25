@@ -182,7 +182,10 @@ Every page will contain the d20 header image, an alert to an application form fo
   I will include a small table with a list of games we are currently playing and the levels.
 
 - Contact
-  A simple form to fill in to contact us.
+  I have included a simple bootstrap form to help visitors get in contact with the group. I have added a form dump for my form for this project.
+
+![Form Success](assets/images/form-success.jpg "Form Dump Success")
+
 
 ### Colour Palette
 
@@ -194,12 +197,11 @@ I used bootstraps built in colors to bring my website to life. However I did use
 
 As a woman with ASD I wanted to make the website as accessible for others as possible. One thing myself and other ND people can struggle with is typography and content. I will research what will work better for a more visual appealing and friendly website.
 
-Another thing I noticed that large walls of texts we're incredibly off putting and most people just don't bother to read them. So I tried to keep everything as basic and concise as I was able. 
+Another thing I noticed that large walls of texts we're incredibly off putting and most people just don't bother to read them. So I tried to keep everything as basic and concise as I was able.
 
 - Font type:
   Part of my research was to find out which fonts where best for accessability and the following came up: Tahoma, Calibri, Helvetica, Arial, Verdana & Times New Roman.
   Slab Serif fonts including Arvo, Museo Slab and Rockwell were accessible but for headings rather than body text.
-
 
 ### Imagery
 
@@ -208,7 +210,7 @@ Another thing I noticed that large walls of texts we're incredibly off putting a
 - Handrawrn map image: Photo by >Patrick Fobian on unsplash
 - Paint brushes: By Ravi KAnt on Pexels
 
-I used some pictures the group had taken themselves for the member section. It was quickly apparent how much better professional images will look. But this wasnt possible for this project. I would try to make sure in future, professional images were available.  I also used some royalty free images to bolster the pages and make everything pop out.
+I used some pictures the group had taken themselves for the member section. It was quickly apparent how much better professional images will look. But this wasnt possible for this project. I would try to make sure in future, professional images were available. I also used some royalty free images to bolster the pages and make everything pop out.
 
 ## Technologies used
 
@@ -225,7 +227,7 @@ I used some pictures the group had taken themselves for the member section. It w
 
 ### Websites
 
-- For my form I used <https://startbootstrap.com/> to get a rough guide on how I wanted the form to look. I then customised it to my own need adding and changing most of the original. 
+- Coolers: I developed my colour palette using coolers.
 
 ### Future Ideas
 
@@ -247,7 +249,7 @@ We could also have a more detailed calender and schedule, with a more thourough 
 
 - Bug 3: Favicon was not loading. Issue was the imags were not linked correctly to the root directory.
 
-- Bug 4: Contactform not functioning properly. I needed to change my code and add required to all the input options.  
+- Bug 4: Contactform not functioning properly. I needed to change my code and add required to all the input options.
 
 ### Accessability
 

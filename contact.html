@@ -68,59 +68,36 @@
 <!-- Alert Sign up End -->
 
 
-    <!--Section Contact us Form (< Took some of the code from:https://startbootstrap.com/>)-->
+    <!--Section Contact us Form-->
 
         <h2 class="contact-us-heading m-4"> <i class="fa-solid fa-comments" style="color:#10cae0;"></i> Get in Touch</h2>
 
         <p> To get in touch with the Javelin Polishers please fill in the form below. </p>
 
-        <h3> </h3>
 
-<div class="contact-form container px-6 my-6 pb-4  mb-2 bg-dark text-white rounded" action="https://formdump.codeinstitute.net" method="POST">
-    <form id="contactForm was-validated" >
-        <div class="mb-3">
-            <label class="form-label" for="name"></label>
-            <input class="form-control" id="name" type="text" placeholder="Name" required />
-            <div class="invalid-feedback" data-sb-feedback="name:required">Name is required.</div>
-        </div>
+<section class="form-section contact-form container px-6 my-6 pb-4  mb-2 bg-dark text-white rounded">
+    <form method="post" action="https://formdump.codeinstitute.net/">
+        <h2>Send us a Message</h2>
+        <label class="mb-1 form-label" for="fname" id="fname"> Name:</label>
+        <input class="form-control" type="text" id="fname" name="first_name" required>
+        <br>
 
-        <div class="mb-3">
-            <label class="form-label" for="emailAddress">Email Address</label>
-            <input class="form-control" id="emailAddress" type="email" placeholder="Email Address" required  />
-            <div class="invalid-feedback" data-sb-feedback="emailAddress:required">Email Address is required.</div>
-            
-        </div>
-        <div class="mb-3">
-            <label class="form-label" for="yourMessage">Your Message</label>
-            <textarea class="form-control" id="yourMessage" type="text" placeholder="Your Message"
-                style="height: 10rem;" required></textarea>
-            <div class="invalid-feedback" data-sb-feedback="yourMessage:required">Your Message is required.</div>
-        </div>
-        <div class="mb-3">
-            <label class="form-label d-block">I confirm I am over 18 years of age</label>
-            <div class="form-check form-check-inline">
-                <input class="form-check-input" id="" type="radio" name="iConfirmIAmOver18YearsOfAge" required />
-                <label class="form-check-label" for=""></label>
-            </div>
-            <div class="invalid-feedback" data-sb-feedback="iConfirmIAmOver18YearsOfAge:required">One option is
-                required.</div>
-        </div>
-        <div class="d-none" id="submitSuccessMessage">
-            <div class="text-center mb-3">
-                <div class="fw-bolder">Form submission successful!</div>
-          
-              
-            
-            </div>
-        </div>
-        <div class="d-none" id="submitErrorMessage">
-            <div class="text-center text-danger mb-3">Error sending message!</div>
-        </div>
-        <div class="d-grid">
-            <button class="btn btn-info btn-lg" id="submitButton" type="submit">Submit</button>
-        </div>
+        <label class="mb-1 form-label" for="email" id="email">Email Address:</label>
+        <input class="form-control" type="email" id="email" name="email_address" required>
+        <br>
+
+        <label class="mb-1 form-label " for="message" id="message" >Your message</label>
+        <input class="form-control" style="height: 10rem;" type="text" id="freeform" name="freeform" required>
+        <br>
+
+        <label class="mb-1 " for="road" id="agebox">I am over 18 years of age</label>
+        <input type="radio" id="road" name="running_preference" required value="age">
+        <br>
+     <input class="mb-2 btn btn-info btn-lg" type="submit" value="Let's Roll!">
     </form>
-</div>
+
+</section>
+
 <!--Section Contact us Form End-->
 
     <!-- Footer -->
