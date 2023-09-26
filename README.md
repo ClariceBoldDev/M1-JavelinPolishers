@@ -313,25 +313,44 @@ I got some Neurodivergant friends to review the site and they found that a few o
 
 ## Deployment
 
-To deploy my site I used Github Pages. Below are the steps you need to deploy them are:
+To deploy my site I used GitHub Pages. Below are the steps you need to deploy them:
 
-1. Navigate to the Github repository:[Github Repository](https://github.com/ClariceBoldon/Milestone1-JavelinPolishers)
+1. Navigate to the GitHub repository:[Github Repository](https://github.com/ClariceBoldon/Milestone1-JavelinPolishers)
 1. Navigate to the settings tab.
-1. On the left hand menu, select pages.
+1. On the left-hand menu, select pages.
 1. From the Source menu select Branch main
 1. From branch select main.
-1. Live link will be shown when published correctly.
+1. A live link will be shown when published correctly.
 
 The live site link is:[Javelin Polishers Live Website:](https://clariceboldon.github.io/Milestone1-JavelinPolishers/)
+
+### Local Deployment
+
+How to fork the repository for local deployment:
+
+- Log in to GitHub.
+- Locate the repository you wish to fork
+- Locate the Fork button on the Right-hand side and click.
+
+### Cloning
+
+How to Clone this Repository
+
+- Log in to GitHub
+- Locate the repository of the project you want to clone
+- Locate the code button and click on your selection this is either HTTPS, Github CLI, or SSH.
+- Copy the link shown
+- In your chosen code editing terminal change the working directory to the location of the cloned directory.
+- Type 'git clone' into the terminal followed by the link of the clone. Then hit enter.
 
 ## Credits
 
 Firstly I'd love to give a big shout out and thank you to my fellow students, particularly my cohort who have been a great support and help over the weeks.
 
-I would like to thank my mentor for being approachable, helpful and on the ball! For helping me belive in myself and giving me the confidence I needed.
+I would like to thank my mentor for being approachable, helpful, and on the ball! For helping me believe in myself and giving me the confidence I needed.
 
 I would like to thank my cohort facilitator for keeping my interest and helping the team grow, those weekly planners made a world of difference in the first few weeks!
 
-A big thanks to Code Institute staff for all their help
+A big thanks to the Code Institute staff for all their help
 
-I couldnt have found out half the infomation I needed without slack and the community of students, mentors, staff and alumni and my peers who helped me get keep going!
+I couldn't have found out half the information I needed without Slack and the community of students, mentors, staff alumni, and my peers who helped me keep going!
