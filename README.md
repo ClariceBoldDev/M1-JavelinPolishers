@@ -259,53 +259,57 @@ My results from WC3:
 
 [Index Page Pass](assets/images/index-testing-pass.jpg)
 
-Here is the tested page finished with direct code input, the only issue was Codeanywhere now using trailing slash's that the validator picked up on but is now acceptable syntax.
+Here is the tested page finished with direct code input, the only issue was Codeanywhere now using trailing slash that the validator picked up on but is now acceptable syntax.
 
-[Members Page Pass ](assets/images/members-pass.jpg)
+[Members Page Pass](assets/images/members-pass.jpg)
 
 Here is the finished page, done with direct input.
 
-[Schedule Page Pass ](assets/images/schedule-pass.jpg)
+[Schedule Page Pass](assets/images/schedule-pass.jpg)
 
 This is the pass page done via direct input
 
-[Contact Page Pass ](assets/images/contact-pass.png)
+[Contact Page Pass](assets/images/contact-pass.png)
+
+My CSS results: [CSS Pass](assets/images/css-pass.png)
 
 ### Peer Review
 
-My results from a peer review on Slack's Code Institute students and alumni:
+To be added...
 
 ### Bugs
 
-##### Testing Bugs:
+##### Testing Bugs
 
 [Home Page Errors](assets/images/index-errors.jpg).
 
-Index Page Error report: The error report came back with two errors on my make a wish image. I had added the width and height as an inline styling. So needed to adjust and add it to the CSS instead.
+Index Page Error report: The error report came back with two errors on my 'make-a-wish' image. I added the width and height as an inline styling. So needed to adjust and add it to the CSS instead.
 
 [Members Page Errors](assets/images/members-errors.jpg)
-I had three errors: One was a simple stray div which was removed. The other was my hr element which had inline styling I added the css. I also need to change a section element to a div in my social media links.
+I had three errors: One was a simple stray div which was removed. The other was my hr element which had inline styling I added the CSS. I also need to change a section element to a div in my social media links.
 
 [Schedule Page Errors](assets/images/schedule-errors.jpg)
 I only had one error on this page and it was a simple stray div tag end which was easily removed.
 
 There were no errors on my contact page
 
-##### Self Found Bugs
+##### Self-Found Bugs
 
-- Bug 1: When I deployed my site, I found most of my images where not loading. I had added the images as absolute filepaths. But then changed them to relative files paths.
-- Bug 2: My make a wish image was not responsive on Galaxy fold screens.To recitify this I needed to remove the class paddings and my CSS sizing options which stopped it from working correctly.
+- Bug 1: When I deployed my site, I found most of my images were not loading. I added the images as absolute file paths. But then changed them to relative file paths.
+- Bug 2: My 'make-a-wish' image was not responsive on Galaxy fold screens. To rectify this I needed to remove the class paddings and my CSS sizing options which stopped it from working correctly.
 
-- Bug 3: Favicon was not loading. Issue was the imags were not linked correctly to the root directory.
+- Bug 3: Favicon was not loading. The issue was the images were not linked correctly to the root directory.
 
-- Bug 4: Contactform not functioning properly. I needed to change my code and add required to all the input options.
+- Bug 4: The Contact form not functioning properly. I needed to change my code and add the required to all the input options.
 
-### Accessability
+### Accessibility
 
-I wanted to make sure there was a strong contrast between elements and background colors, I utalised bootstrap to really draw out boxes and infomation.
+I wanted to make sure there was a strong contrast between elements and background colors, so I utilized bootstrap to draw out boxes and information.
 I added Alternative text to images to ensure that visually impaired users could understand what the image was.
 
-Part of building this website was to factor in how to make the site more accessabile to everyone. Big blocks of long text, different fonts and off putting colours can all have an impact on how easy the site is to navigate. I used a service called Siteimprove.com to help me work out what was working and what wasnt for accessability.
+Part of building this website was to factor in how to make the site more accessible to everyone. Big blocks of long text, different fonts, and off-putting colors can all have an impact on how easy the site is to navigate.
+
+I got some Neurodivergant friends to review the site and they found that a few of the boxes were overwhelming with text. I then narrowed the content down much further and included just a few sentences on the member's page as they found it far more readable and enjoyable.
 
 ## Deployment
 
