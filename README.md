@@ -252,7 +252,10 @@ We could also have a more detailed calendar and schedule, with a more thorough b
 
 #### Is my site Accessible?
 
-My results from siteimprove:
+Index page: Good news! This page passed 37 out of 39 of our checks. But, sorry to say we did find 5 critical or serious problems that will affect people with Blindness and Mobility/Dexterity problems.
+
+There is an iframe without a title.
+4 links on the page have no discernable text.
 
 ### WC3
 
