@@ -4,7 +4,7 @@ Created by Clarice Boldon
 
 ![Responsive Images on various devices](assets/images/responsive-imgs.jpg)
 
-The live site link is:[Javelin Polishers Live Website:](https://clariceboldon.github.io/Milestone1-JavelinPolishers/)
+The live site link is: [Javelin Polishers Live Website:](https://clariceboldon.github.io/Milestone1-JavelinPolishers/)
 
 This is the main website of my local gaming group.
 
