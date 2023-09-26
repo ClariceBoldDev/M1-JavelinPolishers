@@ -119,7 +119,7 @@ Group Goals: The Group would love to become an official group and a safe and inc
 
 #### Scope
 
-Needs: The website needs to have a contact information page that has a clear join the waiting list option.So that visitors can get in touch or request to join.
+Needs: The website needs to have a contact information page that has a clear join the waiting list option. So that visitors can get in touch or request to join.
 It should also have information about who we are, and what we do to make the group clear and accessible to people. It also needs to have an easy-to-view and read schedule, so visitors can see what is going on and when.
 
 Must-Have Pages: Home, Schedule, and Contact.
@@ -241,7 +241,8 @@ I used some pictures the group had taken themselves for the member section. It w
 ### Websites
 
 - Coolers: I developed my color palette using coolers.
-  Survey Monkey: I used Survey Monkey to set up an application form to join the waiting list.
+- Survey Monkey: I used Survey Monkey to set up an application form to join the waiting list.
+- Tinypng.com: I used this to compress my image files down so they didnt slow down the pages.
 
 ### Future Ideas
 
@@ -252,20 +253,45 @@ We could also have a more detailed calendar and schedule, with a more thorough b
 
 #### Is my site Accessible?
 
-Index page: Good news! This page passed 37 out of 39 of our checks. But, sorry to say we did find 5 critical or serious problems that will affect people with Blindness and Mobility/Dexterity problems.
-
-There is an iframe without a title.
-4 links on the page have no discernable text.
-
 ### WC3
 
 My results from WC3:
+
+[Index Page Pass](assets/images/index-testing-pass.jpg)
+
+Here is the tested page finished with direct code input, the only issue was Codeanywhere now using trailing slash's that the validator picked up on but is now acceptable syntax.
+
+[Members Page Pass ](assets/images/members-pass.jpg)
+
+Here is the finished page, done with direct input.
+
+[Schedule Page Pass ](assets/images/schedule-pass.jpg)
+
+This is the pass page done via direct input
+
+[Contact Page Pass ](assets/images/contact-pass.png)
 
 ### Peer Review
 
 My results from a peer review on Slack's Code Institute students and alumni:
 
 ### Bugs
+
+##### Testing Bugs:
+
+[Home Page Errors](assets/images/index-errors.jpg).
+
+Index Page Error report: The error report came back with two errors on my make a wish image. I had added the width and height as an inline styling. So needed to adjust and add it to the CSS instead.
+
+[Members Page Errors](assets/images/members-errors.jpg)
+I had three errors: One was a simple stray div which was removed. The other was my hr element which had inline styling I added the css. I also need to change a section element to a div in my social media links.
+
+[Schedule Page Errors](assets/images/schedule-errors.jpg)
+I only had one error on this page and it was a simple stray div tag end which was easily removed.
+
+There were no errors on my contact page
+
+##### Self Found Bugs
 
 - Bug 1: When I deployed my site, I found most of my images where not loading. I had added the images as absolute filepaths. But then changed them to relative files paths.
 - Bug 2: My make a wish image was not responsive on Galaxy fold screens.To recitify this I needed to remove the class paddings and my CSS sizing options which stopped it from working correctly.
