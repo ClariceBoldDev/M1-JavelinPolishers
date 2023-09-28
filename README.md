@@ -361,6 +361,81 @@ My peer review was added to slack. One of the main issues that came up was that 
 
 Some other suggestions were made regarding style but with the impending deadline, I decided to focus on my readme.
 
+### Accessibility
+
+#### Is my site Accessible?
+
+I wanted to make sure there was a strong contrast between elements and background colors, so I utilized bootstrap to draw out boxes and information.
+I added Alternative text to images to ensure that visually impaired users could understand what the image was.
+
+Part of building this website was to factor in how to make the site more accessible to everyone. Big blocks of long text, different fonts, and off-putting colors can all have an impact on how easy the site is to navigate.
+
+I got some Neurodivergant friends to review the site and they found that a few of the boxes were overwhelming with text. I then narrowed the content down much further and included just a few sentences on the member's page as they found it far more readable and enjoyable.
+
+I tested my sight for accessability using Lighthouse here are the results.
+
+#### Home Page
+
+[91 Accessibility Score](assets/images/documentation/access-home.jpg)
+I recieved a total score of 91.
+
+#### Members Page Accessibility
+
+[91 Accessibility Score](assets/images/documentation/access-member.jpg)
+I gained a 91 score on the members page also.
+
+#### Schedule Page
+
+[92 Accessibility Score](assets/images/documentation/access-schedule.jpg)
+For the schedule page I recieved a 92 mark.
+
+#### Contact Page
+
+[92 Accessibility Score](assets/images/documentation/access-contact.jpg)
+For the last page I got a 92 score.
+
+### Chrome Developer Tools
+
+#### Responsiveness
+
+##### Devices Used:
+
+I used the following devices to test:
+
+- Iphone SE
+- Desktop Windows PC
+- Samsung Galaxy s8+
+- Ipad Air
+- Samsung Glazy A51
+
+##### Iphone SE
+
+[Screenshot of Iphone SE Tests](assets/images/documentation/iphone-se-results.jpg)
+Results: I had a good experince on the Iphone SE.
+
+##### Iphone 12 Pro
+
+[Screenshot of Iphone 12 Pro Tests](assets/images/documentation/iphone-12-pro.jpg)
+I found the results on the Iphone 12 to be very satisfactory.
+
+##### Samsung Galaxy S8+
+
+[Screenshot of Samsung Galaxy S8+](assets/images/documentation/samsun-galaxy-s8.jpg)
+
+##### Ipad Air
+
+[Screenshot of Ipad air](assets/images/documentation/ipad-air.jpg)
+
+##### Samsung A51
+
+[Screenshot of Ipad air](assets/images/documentation/samsung-a51.jpg)
+
+#### Browser Compatability
+
+Chrome: Chrome performed very well and as the platform I normally use I was I had no issues.
+
+Microsoft Edge: Performed well and with no issues.
+
 ### Bugs
 
 ##### Testing Bugs
@@ -379,51 +454,40 @@ I only had one error on this page and it was a simple stray div tag end which wa
 
 There were no errors on my contact page
 
-##### Bugs
+##### Further Bugs
 
 When going through my website I found the following bugs.
 
 - Bug 1: When I deployed my site, I found most of my images were not loading. I added the images as absolute file paths. But then changed them to relative file paths.
 - Bug 2: My 'make-a-wish' image was not responsive on Galaxy fold screens. To rectify this I needed to remove the class paddings and my CSS sizing options which stopped it from working correctly.
 - Bug 3: Favicon was not loading. The issue was the images were not linked correctly to the root directory.
-- Bug 4: The Contact form not functioning properly. I needed to change my code and add the required to all the input options.
 
-### Accessibility
+#### Lighthouse
 
-#### Is my site Accessible?
+Desktop Results:
 
-I wanted to make sure there was a strong contrast between elements and background colors, so I utilized bootstrap to draw out boxes and information.
-I added Alternative text to images to ensure that visually impaired users could understand what the image was.
+Here are the Results of my desktop lighthouse results.
+![Desktop Results](assets/images/documentation/desktop-lighthouse.jpg)
 
-Part of building this website was to factor in how to make the site more accessible to everyone. Big blocks of long text, different fonts, and off-putting colors can all have an impact on how easy the site is to navigate.
+#### Manual Test of Features
 
-I got some Neurodivergant friends to review the site and they found that a few of the boxes were overwhelming with text. I then narrowed the content down much further and included just a few sentences on the member's page as they found it far more readable and enjoyable.
+Navigation: Fully working with no issues.
 
-I tested my sight for accessability using Lighthouse here are the results.
+Alert: Links on each page working without issue, opens into new tab.
 
-#### Home Page
+Social Media Links: All navigation links are working and into new tabs
 
-[91 Accessibility Score](assets/images/documentation/access-home.jpg)
-I recoeved a total score of 91.
+Gofund me link: Working with a newtab and going to GoFundme.
 
-#### Members Page Accessibility
+Created by Link: Link opens to Github without issue and on a new tab.
 
-[91 Accessibility Score](assets/images/documentation/access-member.jpg)
-I gained a 91 score on the members page also.
+Member follow me links: All follow me links are working correctly and opens a new window.
 
-#### Schedule Page
+Tickets: working and linking to TicketSource in a new window.
 
-[92 Accessibility Score](assets/images/documentation/access-schedule.jpg)
-For the schedule page I recieved a 92 mark.
+Contact Form: All forms need filling and the validation works.
 
-#### Contact Page
-
-[92 Accessibility Score](assets/images/documentation/access-contact.jpg)
-For the last page I got a 92 score.
-
-### Performance
-
-#### Home
+Survey: Survey Monkey is working and I have recived two responses.
 
 ## Deployment
 
