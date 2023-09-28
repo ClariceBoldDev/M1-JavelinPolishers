@@ -85,6 +85,13 @@ hr {
   position: relative;
 }
 
+/* ------Survey Link------ */
+
+.survey-link {
+  text-transform: uppercase;
+  color: #1794a2;
+}
+
 /* ------Index Page------ */
 
 .index-hq {
