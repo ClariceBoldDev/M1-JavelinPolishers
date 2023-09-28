@@ -330,20 +330,20 @@ I used some pictures the group had taken themselves for the member section. It w
 The webpage could be used in the future to stream live games. A blog could also be added as well as writing content and tables for other tabletop players.
 We could also have a more detailed calendar and schedule, with a more thorough booking system rather than TicketSource.
 
-## Testing
+## Manual Testing
 
-#### Is my site Accessible?
+### Dev Tools
 
 ### W3C
 
 I tested my site using W3C and these were my final results.
 My results from W3C:
 
-[Index Page Pass screenshot](assets/images/documentation/index-testing-pass.jpg)
+[Index Page Pass screenshot](assets/images/documentation/index-pass.jpg)
 
 Here is the tested page finished with direct code input, the only issue was Codeanywhere now using trailing slash that the validator picked up on but is now acceptable syntax.
 
-[Members Page Pass](assets/images/documentation/members-pass.jpg)
+[Members Page Pass](assets/images/documentation/member-pass.jpg)
 
 Here is the finished page, done with direct input.
 
@@ -351,7 +351,7 @@ Here is the finished page, done with direct input.
 
 This is the pass page done via direct input
 
-[Contact Page Pass](assets/images/documentation/contact-pass.png)
+[Contact Page Pass](assets/images/documentation/contact-pass.jpg)
 
 My CSS results: [CSS Pass](assets/images/documentation/css-pass.png)
 
@@ -389,6 +389,8 @@ When going through my website I found the following bugs.
 - Bug 4: The Contact form not functioning properly. I needed to change my code and add the required to all the input options.
 
 ### Accessibility
+
+#### Is my site Accessible?
 
 I wanted to make sure there was a strong contrast between elements and background colors, so I utilized bootstrap to draw out boxes and information.
 I added Alternative text to images to ensure that visually impaired users could understand what the image was.
