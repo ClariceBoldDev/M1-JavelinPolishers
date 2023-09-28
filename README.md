@@ -2,7 +2,7 @@
 
 Created by Clarice Boldon
 
-![Responsive Images on various devices](assets/images/responsive-imgs.jpg)
+![Responsive Images on various devices](assets/images/responsive-imgs.webp)
 
 The live site link is: [Javelin Polishers Live Website:](https://clariceboldon.github.io/Milestone1-JavelinPolishers/)
 
@@ -76,12 +76,50 @@ The group consists of six friends from in and around the local area of Neath Por
 - To contact the group to join the waiting list or to ask a question.
 - To book a place on to a session
 
+#### Meeting User Goals
+
+1. Who is the group?
+
+I included a members page, to allow visitors to view the members of the group. I wanted to create a quick and basic social story to help neurodivergent users a chance to visually see and get a little understanding of the group.
+
+1. What is on?
+
+I included a schedule page to help users easily find what games or campaigns were running.
+
+1. Check for updates
+
+Because the group wasn't particularly active yet with streaming, I included a future streaming event on the home page. I also added some dummy social media icons to the navigation bar, so that these could be updated one day and a way for the group further to share news.
+
+1. To join a waiting list
+
+I included an alert just under my hero image for a survey to join a waiting list for a space with the gaming group. I also added a contact me page incase they had further questions. (This was set to dump the form at Code Institute but could be changed in the future).
+
+1. I included a list of the current event the gaming group are organizing and sent a dummy link to TicketSource which they hope to use in the future.
+
 ### Group Goals
 
-- To have an easy-to-follow schedule
+- To have an easy-to-follow chart of whats being played.
 - To have a professional-looking website
 - To develop an online presence and give people a chance to see what's happening
 - To gain potential players on a waiting list.
+
+#### Meeting Group Goals
+
+1. Chart
+
+   To meet the group's goals I added a clear table on the schedule that gave a simple but concise look at the current campaigns being played and character levels.
+
+2. Professional Website
+
+To meet the needs of the group I tried to keep the color palette and look as clean as possible. The information provided was limited so I tried to make sure there was enough to cover the pages and offer enough detail.
+
+3. Online Presence
+
+   A simple goal was to just get them online with a website, that they could show to friends, family, or interested parties.
+
+4. Waiting List
+
+The group wasn't sure how they wanted to implement a waiting list system but came up with a few questions. I was able to add a survey monkey link with a range of questions which was then directed back to the group email.
 
 ### First Time Visitor
 
@@ -92,19 +130,46 @@ The group consists of six friends from in and around the local area of Neath Por
 - They may use it to find out who is in the group and if it's an inclusive space.
 - They may use it to book a space for an event.
 
+1. Contact the Group
+
+A simple easy way for first-time visitors to contact the group was through a straight forward form on the contact me page.
+
+1. Whats being played?
+
+I included a simple table to show what games where being played and at what level, this can be found on the schedule page.
+
+1. Social Media
+
+A potential first-time visitor would likely want to find out more and see if the group had a social media presence. I included a follow me button on all members and social media links in the footer. It should be noted that not all players at the time of creating the website had public social media profiles or the group as a whole so dummy links were added.
+
+1. Waiting List
+
+   As with the user goals a waiting list was quite likely to be the most important feature on the website so I added a Survey Link.
+
+1. Who is who?
+
+Much like the user needs first-time visitors would most likely want to see who was in the group. Because our group is heavily neurodivergent they wanted to add a little friendly tagline to each member. The hope would be contacting the group would be less intimidating.
+
+1. Event Booking
+
+   A list of events and tickets to Ticketsource were added to the whats on/schedule page
+
 ### Returning Visitors
 
 - A returning visitor would likely want to view an ongoing schedule and future games.
 - They may have forgotten contact information or social links so are coming back to get in touch or follow the group.
 - They could also just be looking for updates on a waiting list and future events.
 - They may want to join the waiting list
-- Or book into a session
+
+Returning visitors would likely want the same things as other visitors, thy may have forgotten or need reminding of something. So would likely need to contact, book, or check what games are on or what days events are or the times.
 
 ### Frequent Visitors
 
 - Will likely be there to find out what is happening on the schedule.
 - They will use the site to view updates and new events.
 - They will also likely go to the waiting list to see if any spots have opened.
+
+  Like others visitors the goals are much the same, however freqent visitors are liekly to book onto events or check for news.
 
 ## The Five Planes
 
@@ -149,7 +214,7 @@ The visual look of the website is very important. As many of the group is Neurod
 
 #### Sitemap
 
-[Site Map](assets/images/sitemap.png "Sitemap")
+[Site Map](assets/images/sitemap.webp "Sitemap")
 
 #### Index Page
 
@@ -243,6 +308,7 @@ I used some pictures the group had taken themselves for the member section. It w
 - Coolers: I developed my color palette using coolers.
 - Survey Monkey: I used Survey Monkey to set up an application form to join the waiting list.
 - Tinypng.com: I used this to compress my image files down so they didnt slow down the pages.
+- imageresizer.com: I used this to resize my files.
 
 ### Future Ideas
 
@@ -253,9 +319,10 @@ We could also have a more detailed calendar and schedule, with a more thorough b
 
 #### Is my site Accessible?
 
-### WC3
+### W3C
 
-My results from WC3:
+I tested my site using W3C and these were my final results.
+My results from W3C:
 
 [Index Page Pass](assets/images/index-testing-pass.jpg)
 
@@ -275,11 +342,13 @@ My CSS results: [CSS Pass](assets/images/css-pass.png)
 
 ### Peer Review
 
-To be added...
+My peer review was added to slack. One of the main issues that came up was that my Survey form was able to be submited without any input so I added mandatory questions to the form.
 
 ### Bugs
 
-##### Testing Bugs
+##### Testing Bugs:
+
+Here were the issues the W3C pulled, and the corrections needed.
 
 [Home Page Errors](assets/images/index-errors.jpg).
 
@@ -293,13 +362,13 @@ I only had one error on this page and it was a simple stray div tag end which wa
 
 There were no errors on my contact page
 
-##### Self-Found Bugs
+##### Bugs
+
+When going through my website I found the following bugs.
 
 - Bug 1: When I deployed my site, I found most of my images were not loading. I added the images as absolute file paths. But then changed them to relative file paths.
 - Bug 2: My 'make-a-wish' image was not responsive on Galaxy fold screens. To rectify this I needed to remove the class paddings and my CSS sizing options which stopped it from working correctly.
-
 - Bug 3: Favicon was not loading. The issue was the images were not linked correctly to the root directory.
-
 - Bug 4: The Contact form not functioning properly. I needed to change my code and add the required to all the input options.
 
 ### Accessibility
