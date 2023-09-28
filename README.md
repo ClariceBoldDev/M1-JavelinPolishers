@@ -230,23 +230,23 @@ The visual look of the website is very important. As many of the group is Neurod
 
 #### Sitemap
 
-[Site Map](assets/images/sitemap.webp "Sitemap")
+[Here is the wireframe for my sitemap](assets/images/documentation/sitemap.png "Sitemap")
 
 #### Index Page
 
-[Index Page](assets/images/home.png "Home Page")
+[This is the index page wireframe](assets/images/documentation/home-wireframe.jpg "Home Page")
 
 #### Members Page
 
-[Members Page](assets/images/members.png "Members")
+[This is the wireframe for my members page](assets/images/documentation/member-wireframe.png "Members")
 
 #### Schedule
 
-[Schedule Page](assets/images/schedule.png "Schedule")
+[Here is the wireframe for my schedule page](assets/images/documentation/schedule-wireframe.png "Schedule")
 
 #### Contact
 
-[Contact Page](assets/images/contact.png "Contact")
+[This is the wireframe for my contact page](assets/images/documentation/contact-wireframe.png "Contact")
 
 ### Structure
 
