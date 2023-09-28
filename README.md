@@ -2,9 +2,9 @@
 
 Created by Clarice Boldon
 
-![Responsive Images on various devices](assets/images/responsive-imgs.webp)
+![Responsive Images on various devices](assets/images/documentation/responsive-imgs.jpg)
 
-The live site link is: [Javelin Polishers Live Website:](https://clariceboldon.github.io/Milestone1-JavelinPolishers/)
+The live site link is: [Javelin Polishers Live Website](https://clariceboldon.github.io/Milestone1-JavelinPolishers/)
 
 This is the main website of my local gaming group.
 
@@ -68,33 +68,49 @@ The purpose of the website is to showcase what the gaming group has been doing a
 
 The group consists of six friends from in and around the local area of Neath Port Talbot. The group plays tabletop roleplaying games and met through a love of Dungeons and Dragons.
 
+Due to the nature of the website many of the user goals were mostly the same across the board whether the user was brand new or a frequent visitor. So I have written a little detail about each of them with a description of why and how they are met.
+
 ### User Goals
 
 - To view who the group is
 - To view information about what is on
 - To check for updates including live streams
-- To contact the group to join the waiting list or to ask a question.
+- To contact the group
+- To join a waiting list
 - To book a place on to a session
+- To follow the group on social media
 
 #### Meeting User Goals
 
-1. Who is the group?
+##### Who are the group?
 
-I included a members page, to allow visitors to view the members of the group. I wanted to create a quick and basic social story to help neurodivergent users a chance to visually see and get a little understanding of the group.
+1. Who are the group members?
+   I included a members page, to allow visitors to view the members of the group. I wanted to create a quick and basic social story to help neurodivergent users a chance to visually see and get a little understanding of the group.
+   [A screenshot of the members section. It shows six profile pictures of three women and three men.](assets/images/documentation/meet-group-rm.jpg)
 
-1. What is on?
+2. What is on?
 
-I included a schedule page to help users easily find what games or campaigns were running.
+I included a schedule page to help users easily find what games or campaigns were running. There is a small table that includes what games and levels are currently being played. There is also some infomation and a booking options on the page with current events.
+[A screenshot showing a table of games and a row of images for booking](assets/images/documentation/schedule-screenshot.jpg)
 
 1. Check for updates
 
-Because the group wasn't particularly active yet with streaming, I included a future streaming event on the home page. I also added some dummy social media icons to the navigation bar, so that these could be updated one day and a way for the group further to share news.
+Because the group wasn't particularly active yet with streaming, I included a future streaming event on the home page.
+[A screenshot showing infomation on a Make a wish charity fundraising event](assets/images/documentation/events.jpg)
+
+1. Contact the Group
+
+A Form was added to a contact page to make it easy for users to send a message or ask a question.
+[A screenshot of the contact form](assets/images/documentation/contact-form.jpg)
 
 1. To join a waiting list
 
-I included an alert just under my hero image for a survey to join a waiting list for a space with the gaming group. I also added a contact me page incase they had further questions. (This was set to dump the form at Code Institute but could be changed in the future).
+I included an alert just under my hero image for a survey to join a waiting list for a space with the gaming group.
+[A screenshot of the alert and survey link](assets/images/documentation/alert.jpg)
 
-1. I included a list of the current event the gaming group are organizing and sent a dummy link to TicketSource which they hope to use in the future.
+1. Help users find out more about members or to follow the groups social media platforms. I added social media links and follow me buttons on individual members.
+   [A screenshot of the Footer with social media links](assets/images/documentation/footer.jpg)
+   [A screenshot of the follow me buttons on the member cards.](assets/images/documentation/follow-me.jpg)
 
 ### Group Goals
 
@@ -344,9 +360,11 @@ My CSS results: [CSS Pass](assets/images/css-pass.png)
 
 My peer review was added to slack. One of the main issues that came up was that my Survey form was able to be submited without any input so I added mandatory questions to the form.
 
+Some other suggestions were made regarding style but with the impending deadline, I decided to focus on my readme.
+
 ### Bugs
 
-##### Testing Bugs:
+##### Testing Bugs
 
 Here were the issues the W3C pulled, and the corrections needed.
 
