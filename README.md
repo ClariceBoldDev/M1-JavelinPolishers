@@ -269,6 +269,7 @@ Every page will contain the d20 header image and an alert to an application form
 
 - Contact
   I have included a simple bootstrap form to help visitors get in contact with the group. I have added a form dump to Code Institute for my form for this project.
+  [A screenshot of the form success](assets/images/documentation/form-success.jpg "Form Dump Success")
 
 - Footer
   For my footer, I added the location map for quick ease in finding the group. I also added social media links these were all dummy links only going to the websites themselves. The group had yet to set up the social media sites but was looking at doing so in the near future.
@@ -279,13 +280,11 @@ Every page will contain the d20 header image and an alert to an application form
   Instagram
   I also added a copyright section, with a link to the my GitHub account.
 
-[Form Success](assets/images/form-success.jpg "Form Dump Success")
-
 ### Colour Palette
 
 I used Bootstrap's built-in colors to bring my website to life. However, I did use some flashes of color throughout the site.
 
-![Color Palette](assets/images/palette.png "a title")
+![Color Palette](assets/images/documentation/palette.png "My colours")
 
 ### Typography
 
@@ -340,21 +339,21 @@ We could also have a more detailed calendar and schedule, with a more thorough b
 I tested my site using W3C and these were my final results.
 My results from W3C:
 
-[Index Page Pass](assets/images/index-testing-pass.jpg)
+[Index Page Pass screenshot](assets/images/documentation/index-testing-pass.jpg)
 
 Here is the tested page finished with direct code input, the only issue was Codeanywhere now using trailing slash that the validator picked up on but is now acceptable syntax.
 
-[Members Page Pass](assets/images/members-pass.jpg)
+[Members Page Pass](assets/images/documentation/members-pass.jpg)
 
 Here is the finished page, done with direct input.
 
-[Schedule Page Pass](assets/images/schedule-pass.jpg)
+[Schedule Page Pass](assets/images/documentation/schedule-pass.jpg)
 
 This is the pass page done via direct input
 
-[Contact Page Pass](assets/images/contact-pass.png)
+[Contact Page Pass](assets/images/documentation/contact-pass.png)
 
-My CSS results: [CSS Pass](assets/images/css-pass.png)
+My CSS results: [CSS Pass](assets/images/documentation/css-pass.png)
 
 ### Peer Review
 
@@ -368,14 +367,14 @@ Some other suggestions were made regarding style but with the impending deadline
 
 Here were the issues the W3C pulled, and the corrections needed.
 
-[Home Page Errors](assets/images/index-errors.jpg).
+[Home Page Errors](assets/images/documentation/index-errors.jpg).
 
 Index Page Error report: The error report came back with two errors on my 'make-a-wish' image. I added the width and height as an inline styling. So needed to adjust and add it to the CSS instead.
 
-[Members Page Errors](assets/images/members-errors.jpg)
+[Members Page Errors](assets/images/documentation/members-errors.jpg)
 I had three errors: One was a simple stray div which was removed. The other was my hr element which had inline styling I added the CSS. I also need to change a section element to a div in my social media links.
 
-[Schedule Page Errors](assets/images/schedule-errors.jpg)
+[Schedule Page Errors](assets/images/documentation/schedule-errors.jpg)
 I only had one error on this page and it was a simple stray div tag end which was easily removed.
 
 There were no errors on my contact page
@@ -397,6 +396,32 @@ I added Alternative text to images to ensure that visually impaired users could 
 Part of building this website was to factor in how to make the site more accessible to everyone. Big blocks of long text, different fonts, and off-putting colors can all have an impact on how easy the site is to navigate.
 
 I got some Neurodivergant friends to review the site and they found that a few of the boxes were overwhelming with text. I then narrowed the content down much further and included just a few sentences on the member's page as they found it far more readable and enjoyable.
+
+I tested my sight for accessability using Lighthouse here are the results.
+
+#### Home Page
+
+[91 Accessibility Score](assets/images/documentation/access-home.jpg)
+I recoeved a total score of 91.
+
+#### Members Page Accessibility
+
+[91 Accessibility Score](assets/images/documentation/access-member.jpg)
+I gained a 91 score on the members page also.
+
+#### Schedule Page
+
+[92 Accessibility Score](assets/images/documentation/access-schedule.jpg)
+For the schedule page I recieved a 92 mark.
+
+#### Contact Page
+
+[92 Accessibility Score](assets/images/documentation/access-contact.jpg)
+For the last page I got a 92 score.
+
+### Performance
+
+#### Home
 
 ## Deployment
 
