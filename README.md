@@ -18,8 +18,8 @@ This is the readme file and documentation to go alongside this project. The proj
 
    - Purpose of Project User Experience (UX)
    - Client Goals
-   - About my Client
-   - User Goals (First Visit, Returning and Frequent users)
+   - About the group
+   - User Goals (Meeting User Goals, First Visit, Returning and Frequent users)
    - The Five Planes
 
 1. **Design Layout & Structure.**
@@ -30,24 +30,23 @@ This is the readme file and documentation to go alongside this project. The proj
    - Typography
    - Imagery
 
-1. **Wireframe**
-
-1. **Structure**
-
-1. **Colour Palette**
-
 1. **Technologies Used.**
 
    - Languages
    - Frameworks, Libraries, and Programs used
+   - Websites
    - Future Ideas (Blog, booking form, price list)
 
-1. **Testing.**
+1. **Manual Testing**
 
    - Wc3
    - Peer Review
-   - Bugs
+   - Family & Friends
    - Accessibility
+   - Responsiveness
+   - Browser Compatability
+   - Bugs
+   - Performance
 
 1. **Deployment.**
 
@@ -57,11 +56,12 @@ This is the readme file and documentation to go alongside this project. The proj
 
 With the principles of design, I have followed the five planes of strategy, Scope, Structure, and surface. My aim is to make my website responsive, clear, accessible, and eye-catching.
 
-### **Purpose of the Website**
+### **Purpose of the Website and Client Goals**
 
+The group want a website to give them a social presences. They want to in the future to potentiall build a fan base and share social media profiles.
 The purpose of the website is to showcase what the gaming group has been doing and what they have planned this will include a schedule and upcoming events. The website will also allow others to learn a little about the group and join a waiting list. There will also be a small section to book tickets to events.
 
-### **About the group**
+### **About the Group**
 
 The group consists of six friends from in and around the local area of Neath Port Talbot. The group plays tabletop roleplaying games and meets through a love of Dungeons and Dragons. The group meets several times a month and wants to start organizing more days.
 
@@ -77,39 +77,45 @@ Due to the nature of the website, many of the user goals were mostly the same ac
 - To book a place on to a session
 - To follow the group on social media
 
-#### **Meeting User Goals**
+### **Meeting User Goals**
 
 ##### **Who are the group?**
 
 1. **Who are the group members?**
    I included a members page, to allow visitors to view the members of the group. I wanted to create a quick and basic social story to help neurodivergent users have a chance to visually see and get a little understanding of the group. I also included member titles and a short bio to bring each member's personality out a little.
-   [A screenshot of the members section. It shows six profile pictures of three women and three men.](assets/images/documentation/meet-group-rm.jpg)
+
+[A screenshot of the members section. It shows six profile pictures of three women and three men.](assets/images/documentation/meet-group-rm.jpg)
 
 1. **What is on?**
 
 I included a schedule page to help users easily find what games or campaigns were running. There is a small table that includes what games and levels are currently being played. There is also some information and booking options on the page with current events.
+
 [A screenshot showing a table of games and a row of images for booking](assets/images/documentation/schedule-screenshot.jpg)
 
 1. **Check for updates**
 
 Because the group wasn't particularly active yet with streaming, I included a future streaming event on the home page. This was also accompanied by information on how to support them when they run a charity stream in December. I included a dummy link to GoFundMe as this is what the group is most likely to use.
+
 [A screenshot showing information on a Make a Wish charity fundraising event](assets/images/documentation/events.jpg)
 
 1. **Contact the Group**
 
 A Form was added to a contact page to make it easy for users to send a message or ask a question.
+
 [A screenshot of the contact form](assets/images/documentation/contact-form.jpg)
 
 1. **To join a waiting list**
 
 I included an alert just under my hero image for a survey to join a waiting list for a space with the gaming group.
+
 [A screenshot of the alert and survey link](assets/images/documentation/alert.jpg)
 
 1. **Get social**
 
-   Help users find out more about members or to follow the group's social media platforms. I added social media links and follow-me buttons for individual members.
-   [A screenshot of the Footer with social media links](assets/images/documentation/footer.jpg)
-   [A screenshot of the follow me buttons on the member cards.](assets/images/documentation/follow-me.jpg)
+Help users find out more about members or to follow the group's social media platforms. This will also be used to build a fan base. I added social media links and follow-me buttons for individual members.
+
+[A screenshot of the Footer with social media links](assets/images/documentation/footer.jpg)
+[A screenshot of the follow me buttons on the member cards.](assets/images/documentation/follow-me.jpg)
 
 ### **Group Goals**
 
@@ -118,11 +124,11 @@ I included an alert just under my hero image for a survey to join a waiting list
 - To develop an online presence and give people a chance to see what's happening
 - To gain potential players on a waiting list.
 
-#### Meeting Group Goals
+### **Meeting Group Goals**
 
 1. **Chart**
 
-   To meet the group's goals I added a clear table on the schedule that gave a simple but concise look at the current campaigns being played and character levels.
+To meet the group's goals I added a clear table on the schedule that gave a simple but concise look at the current campaigns being played and character levels.
 
 1. **Professional Website**
 
@@ -130,7 +136,7 @@ To meet the needs of the group I tried to keep the color palette and look as cle
 
 1. **Online Presence**
 
-   A simple goal was to just get them online with a website, that they could show to friends, family, or interested parties.
+A simple goal was to just get them online with a website, that they could show to friends, family, or interested parties.
 
 1. **Waiting List**
 
@@ -188,7 +194,7 @@ Returning visitors would likely want the same things as other visitors, they may
 
 ## **The Five Planes**
 
-#### **Strategy**
+### **Strategy**
 
 Questions I have considered during my research include:
 Who is likely to use this site: Target Audience? The target audience is people interested in learning or playing Table Top Role-playing games (TTRPG) in the local area.
@@ -197,7 +203,7 @@ Is the content relevant? I will need to make sure that the site looks profession
 
 Group Goals: The Group would love to become an official group and a safe and inclusive space for Neurodivergent adults, Minorities, and LGBTQIA+ people. They also hope to grow and apply for grants to grow in the future.
 
-#### **Scope**
+### **Scope**
 
 Needs: The website needs to have a contact information page that has a clear join the waiting list option. So that visitors can get in touch or request to join.
 It should also have information about who we are, and what we do to make the group clear and accessible to people. It also needs to have an easy-to-view and read schedule, so visitors can see what is going on and when.
@@ -207,11 +213,11 @@ If I have enough time I will also include a members page, as a social story to h
 
 Potential options for later: Blog, Streaming options, and application form for download.
 
-#### **Structure**
+### **Structure**
 
 The website needs to be a clear and simple structure, with easy-to-follow straightforward links. It needs to be consistent and meet conventions of structure to allow ease of use and user consistency.
 
-#### **Skeleton**
+### **Skeleton**
 
 Navigation: Visual iconography to help navigation. Simple Navigation bar
 
@@ -219,7 +225,7 @@ Interface: Needs to be visually appealing and clear. Meets the needs of users!
 
 Features: The features I use must be useful, and follow the same pattern. Information needs to be put in priority order. With minimal features and complexity to add to usability and a better user experience.
 
-#### **Surface**
+### **Surface**
 
 The visual look of the website is very important. As many of the group is Neurodivergant I want to make sure the fonts, colors, images, and order of the website are as clean and appealing as possible. One issue ND people have is with certain fonts and colors, so I will use basic colors and fonts. With minimal blocks of text to make it easier to read.
 
@@ -227,25 +233,15 @@ The visual look of the website is very important. As many of the group is Neurod
 
 ### **Wireframes**
 
-#### **Sitemap**
+#### **Sitemap**: [Here is the wireframe for my sitemap](assets/images/documentation/sitemap.png "Sitemap")
 
-[Here is the wireframe for my sitemap](assets/images/documentation/sitemap.png "Sitemap")
+#### **Index Page**: [This is the index page wireframe](assets/images/documentation/home-wireframe.jpg "Home Page")
 
-#### **Index Page**
+#### **Members Page**: [This is the wireframe for my member's page](assets/images/documentation/member-wireframe.png "Members")
 
-[This is the index page wireframe](assets/images/documentation/home-wireframe.jpg "Home Page")
+#### **Schedule**: [Here is the wireframe for my schedule page](assets/images/documentation/schedule-wireframe.png "Schedule")
 
-#### **Members Page**
-
-[This is the wireframe for my member's page](assets/images/documentation/member-wireframe.png "Members")
-
-#### **Schedule**
-
-[Here is the wireframe for my schedule page](assets/images/documentation/schedule-wireframe.png "Schedule")
-
-#### **Contact**
-
-[This is the wireframe for my contact page](assets/images/documentation/contact-wireframe.png "Contact")
+#### **Contact**: [This is the wireframe for my contact page](assets/images/documentation/contact-wireframe.png "Contact")
 
 ### **Structure**
 
@@ -277,15 +273,15 @@ Every page will contain the d20 header image and an alert to an application form
   - Twitter
   - Twitch
   - Instagram
-    I also added a copyright section, with a link to my GitHub account.
+  - I also added a copyright section, with a link to my GitHub account.
 
-### **Colour Palette**
+## **Colour Palette**
 
 I used Bootstrap's built-in colors to bring my website to life. However, I did use some flashes of color throughout the site. This included icons.
 
 ![Color Palette](assets/images/documentation/palette.png "My colours")
 
-### **Typography**
+## **Typography**
 
 As a woman with ASD, I wanted to make the website as accessible for others as possible. One thing I and other ND people can struggle with is typography and content. I researched what would work better for a more visually appealing and friendly website.
 
@@ -295,7 +291,7 @@ Another thing I noticed is that large walls of texts are incredibly off-putting 
   Part of my research was to find out which fonts were best for accessibility and the following came up: Tahoma, Calibri, Helvetica, Arial, Verdana & Times New Roman.
   Slab Serif fonts including Arvo, Museo Slab, and Rockwell were accessible but for headings rather than body text.
 
-### **Imagery**
+## **Imagery**
 
 - Hero Image: Photo by Timothy Dykes on Unsplash
 - Gameplay Image: Photo by Robert Coelho on Unsplash
@@ -306,12 +302,12 @@ I used some pictures the group had taken themselves for the member section. It w
 
 ## **Technologies used**
 
-### **Languages**
+## **Languages**
 
 - Html 5
 - CSS3
 
-### **Frameworks, Libraries, and Programmes**
+## **Frameworks, Libraries, and Programmes**
 
 - Bootstrap - At the time of writing this readme I was using the latest version of Bootstrap which was v5.3.
 - Fontawesome.com: Was used for Icons across the site.
@@ -322,7 +318,7 @@ I used some pictures the group had taken themselves for the member section. It w
 - Balsamiq: was used to design and create my wireframes.
 - Hoover.css: was used for my navigation menu
 
-### **Websites**
+## **Websites**
 
 - Coolers: I developed my color palette using coolers.
 - Survey Monkey: I used Survey Monkey to set up an application form to join the waiting list.
@@ -332,14 +328,12 @@ I used some pictures the group had taken themselves for the member section. It w
 - Unsplash: Used for royalty free images
 - Pexels: Also used for free images.
 
-### **Future Ideas**
+## **Future Ideas**
 
 The webpage could be used in the future to stream live games. A blog could also be added as well as writing content and tables for other tabletop players.
 We could also have a more detailed calendar and schedule, with a more thorough booking system rather than TicketSource.
 
 ## **Manual Testing**
-
-### **Dev Tools**
 
 ### **W3C**
 
@@ -405,8 +399,6 @@ For the schedule page, I received a 92 mark.
 [92 Accessibility Score](assets/images/documentation/access-contact.jpg)
 For the last page, I got a 92 score.
 
-### **Chrome Developer Tools**
-
 #### **Responsiveness**
 
 ##### **Devices Used:**
@@ -452,7 +444,7 @@ Here is the edited contact form:
 
 [Contact Form after editing:](assets/images/documentation/improved-contact.webp)
 
-#### **Browser Compatability**
+### **Browser Compatability**
 
 Chrome: Chrome performed very well and as the platform I normally use I was I had no issues.
 
@@ -529,7 +521,7 @@ Contact Form: All forms need filling and the validation works.
 
 Survey: Survey Monkey is working and I have received two responses.
 
-## **Deployment**
+### **Deployment**
 
 To deploy my site I used GitHub Pages. Below are the steps you need to deploy them:
 
