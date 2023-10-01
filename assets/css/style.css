@@ -9,6 +9,13 @@ hr {
   width: 50%;
 }
 
+/* ------Buttons------ */
+
+.card-footer {
+  display: flex;
+  justify-content: center;
+}
+
 /* ------Nav Bar------ */
 
 .navbar-brand {
@@ -29,11 +36,6 @@ hr {
 #nav-bar a:hover {
   border-bottom: 1px solid #10cae0;
 }
-
-.fb-btn {
-  background-color: #3b5998;
-}
-
 /* ------Hero Image------ */
 
 #hero-image {
@@ -179,6 +181,11 @@ p {
   padding-bottom: 0%;
   height: 300px;
   margin-bottom: 0;
+}
+/* ------Footer------ */
+
+.social-icons {
+  background-color: rgba(0, 0, 0, 0.2);
 }
 
 /*------ Media Queries ------ */
