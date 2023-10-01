@@ -8,57 +8,59 @@ The live site link is: [Javelin Polishers Live Website](https://clariceboldon.gi
 
 This is the main website of my local gaming group.
 
-### **Javelin Polishers Gaming Club**
+## **Javelin Polishers Gaming Club**
 
 This is the readme file and documentation to go alongside this project. The project is to build a website for my local gaming club. The project is being built using HTML5, CSS, and Bootstrap as my first milestone project. This is part of Code Institute's Diploma in Web Application.
 
 ## **Contents**
 
-1. **Project Planning & User Experience.**
+### [Project Planning & User Experience UX](#project-planning-and-user-experience)
 
-   - Purpose of Project User Experience (UX)
-   - Client Goals
-   - About the group
-   - User Goals (Meeting User Goals, First Visit, Returning and Frequent users)
-   - The Five Planes
+- [ Purpose of Project User Experience](#purpose-of-the-website-and-client-goals)
 
-1. **Design Layout & Structure.**
+- [ About the group](#about-the-group)
 
-   - Wireframe
-   - Structure
-   - Colour Palette
-   - Typography
-   - Imagery
+- [ User Goals (Meeting User Goals, First Visit, Returning and Frequent users)](#user-goals)
 
-1. **Technologies Used.**
+- [ The Five Planes](#the-five-planes)
 
-   - Languages
-   - Frameworks, Libraries, and Programs used
-   - Websites
-   - Future Ideas (Blog, booking form, price list)
+### [Design Layout & Structure](#design-layout-and-structure)
 
-1. **Manual Testing**
+- [Wireframe](#wireframes)
+- [Structure](#structure)
+- [Colour Palette](#colour-palette)
+- [Typography](#typography)
+- [Imagery](#imagery)
 
-   - Wc3
-   - Peer Review
-   - Family & Friends
-   - Accessibility
-   - Responsiveness
-   - Browser Compatability
-   - Bugs
-   - Performance
+### [Technologies Used](#the-technologies-used)
 
-1. **Deployment.**
+- [Languages](#languages)
+- [Frameworks, Libraries, and Programs used](#frameworks-libraries-and-programmes)
+- [Websites](#websites)
+- [Future Ideas](#future-ideas)
 
-1. **Credits**
+### [Manual Testing](#the-manual-testing)
 
-## **Project Planning & User Experience (UX)**
+- [W3c](#w3c)
+- [Peer Review](#peer-review)
+- [Family & Friends](#family--friends-testing)
+- [Accessibility](#accessibility)
+- [Responsiveness](#responsiveness)
+- [Browser Compatability](#browser-compatability)
+- [Bugs](#bugs)
+- [Performance](#performance)
+
+### [Deployment](#website-deployment)
+
+### [Credits](#with-thanks-and-credits)
+
+## **Project Planning and User Experience**
 
 With the principles of design, I have followed the five planes of strategy, Scope, Structure, and surface. My aim is to make my website responsive, clear, accessible, and eye-catching.
 
 ### **Purpose of the Website and Client Goals**
 
-The group want a website to give them a social presences. They want to in the future to potentiall build a fan base and share social media profiles.
+The group want a website to give them a social presence. They would like in the future to potentially build a fan base and share social media profiles.
 The purpose of the website is to showcase what the gaming group has been doing and what they have planned this will include a schedule and upcoming events. The website will also allow others to learn a little about the group and join a waiting list. There will also be a small section to book tickets to events.
 
 ### **About the Group**
@@ -123,7 +125,7 @@ Help users find out more about members or to follow the group's social media pla
 - To have an easy-to-follow chart of what's being played.
 - To have a professional-looking website
 - To develop an online presence and give people a chance to see what's happening
-- To gain potential players on a waiting list.
+- To gain potential players via waiting list.
 
 ### **Meeting Group Goals**
 
@@ -230,7 +232,7 @@ Features: The features I use must be useful, and follow the same pattern. Inform
 
 The visual look of the website is very important. As many of the group is Neurodivergant I want to make sure the fonts, colors, images, and order of the website are as clean and appealing as possible. One issue ND people have is with certain fonts and colors, so I will use basic colors and fonts. With minimal blocks of text to make it easier to read.
 
-## **Design Layout & Structure**
+## **Design Layout and Structure**
 
 ### **Wireframes**
 
@@ -301,14 +303,14 @@ Another thing I noticed is that large walls of texts are incredibly off-putting 
 
 I used some pictures the group had taken themselves for the member section. It was quickly apparent how much better professional images would look. But this wasn't possible for this project. I will try to make sure in the future, professional images are available. I also used some royalty-free images to bolster the pages and make everything pop out.
 
-## **Technologies used**
+## The Technologies Used
 
-## **Languages**
+### **Languages**
 
 - Html 5
 - CSS3
 
-## **Frameworks, Libraries, and Programmes**
+### **Frameworks, Libraries, and Programmes**
 
 - Bootstrap - At the time of writing this readme I was using the latest version of Bootstrap which was v5.3.
 - Fontawesome.com: Was used for Icons across the site.
@@ -319,7 +321,7 @@ I used some pictures the group had taken themselves for the member section. It w
 - Balsamiq: was used to design and create my wireframes.
 - Hoover.css: was used for my navigation menu
 
-## **Websites**
+### **Websites**
 
 - Coolers: I developed my color palette using coolers.
 - Survey Monkey: I used Survey Monkey to set up an application form to join the waiting list.
@@ -329,12 +331,12 @@ I used some pictures the group had taken themselves for the member section. It w
 - Unsplash: Used for royalty free images
 - Pexels: Also used for free images.
 
-## **Future Ideas**
+### **Future Ideas**
 
 The webpage could be used in the future to stream live games. A blog could also be added as well as writing content and tables for other tabletop players.
 We could also have a more detailed calendar and schedule, with a more thorough booking system rather than TicketSource.
 
-## **Manual Testing**
+## **The Manual Testing**
 
 ### **W3C**
 
@@ -523,7 +525,7 @@ Contact Form: All forms need filling and the validation works.
 
 Survey: Survey Monkey is working and I have received two responses.
 
-### **Deployment**
+### Website Deployment
 
 To deploy my site I used GitHub Pages. Below are the steps you need to deploy them:
 
@@ -555,7 +557,7 @@ How to Clone this Repository
 - In your chosen code editing terminal change the working directory to the location of the cloned directory.
 - Type 'git clone' into the terminal followed by the link of the clone. Then hit enter.
 
-## **Credits**
+## With Thanks and Credits
 
 June 23 Cohort: Firstly I'd love to give a big shout out and thank you to my fellow students, particularly my cohort who have been a great support and help over the weeks.
 
