@@ -448,6 +448,10 @@ I found the results on the iPhone 12 to be very satisfactory.
 - With these results, I was able to see padding needed to be added to my contact form on mobile and smaller screen devices. I was able to achieve the final version by changing the forms max width to 90%.
 - I also found a issue with the logo in my navigation bar. I had to set a few media queries over smaller devices to allow the full logo to be read.
 
+Here is the edited contact form:
+
+[Contact Form after editing:](assets/images/documentation/improved-contact.webp)
+
 #### **Browser Compatability**
 
 Chrome: Chrome performed very well and as the platform I normally use I was I had no issues.
@@ -480,6 +484,8 @@ When going through my website I found the following bugs.
 - Bug 2: My 'make-a-wish' image was not responsive on Galaxy fold screens. To rectify this I needed to remove the class paddings and my CSS sizing options which stopped it from working correctly.
 - Bug 3: Favicon was not loading. The issue was the images were not linked correctly to the root directory.
 
+### Performance
+
 #### **Lighthouse**
 
 **Desktop Results:**
@@ -493,9 +499,15 @@ Here are the Results of my desktop lighthouse results.
 
 I had some issues with my mobile score, I have a slow home connection which I feel didn't help but had some issues such as:
 
-- Eliminate render-blocking resources and reduce unused CSS: I felt this was out of the scope of my project and couldn't at the time do much about it. As it wanted me to remove Bootstrap CDN code that I needed to run my website.
-- Serve static assets with an efficient cache policy: I felt this was too out of the scope of the first project so couldn't do anything about it.
-- The last fault was for an image element. I could not define the width or height to the lighthouses specifications without it not working on Apple devices. So chose to let this one sit.
+- Eliminate render-blocking resources and reduce unused CSS: I could see that lighthouse was picking up on my bootstrap and fontawesome links and it was slowing the sight down however this wasnt a possible removable option to increase speed.
+- Serve static assets with an efficient cache policy: I felt this was out of the scope of the first project so decided to leave it in my first project.
+- The last fault was for an image element. I could not define the width or height to the lighthouses specifications without the images not working on Apple devices. I did then make sure all images were webP pages.
+
+#### **GTmetrix**
+
+I decided to also try GTmetrix to test the whole site and come up with a good result.
+
+![GTmetrix Results](assets/images/documentation/performance-check.webp)
 
 #### **Manual Test of Features**
 
