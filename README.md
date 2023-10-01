@@ -443,7 +443,7 @@ I found the results on the iPhone 12 to be very satisfactory.
 
 [Screenshot of Ipad air](assets/images/documentation/samsung-a51.jpg)
 
-With these results, I was able to see padding needed to be added to my contact form. However, I acouldn't get the form to sit on all devices without the final version that you see. I liked the style of it and decided to keep it.
+With these results, I was able to see padding needed to be added to my contact form. I was able to achieve the final version by changing the forms mas width to 90%.
 
 #### **Browser Compatability**
 

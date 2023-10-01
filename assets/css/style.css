@@ -169,6 +169,9 @@ p {
   text-align: center;
 }
 
+.form-section {
+  max-width: 90%;
+}
 /* ------Location Map------ */
 
 .map {
@@ -219,13 +222,13 @@ p {
 @media screen and (max-width: 280px) {
   #logo {
     letter-spacing: 0px;
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
 @media screen and (max-width: 280px) {
   .fa-dice-d20 {
-    font-size: 20px;
+    font-size: 15px;
   }
 }
 
@@ -237,6 +240,6 @@ p {
 
 @media screen and (max-width: 280px) {
   .whats-on {
-    font-size: 40px;
+    font-size: 35px;
   }
 }
