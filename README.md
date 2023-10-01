@@ -84,7 +84,7 @@ Due to the nature of the website, many of the user goals were mostly the same ac
 1. **Who are the group members?**
    I included a members page, to allow visitors to view the members of the group. I wanted to create a quick and basic social story to help neurodivergent users have a chance to visually see and get a little understanding of the group. I also included member titles and a short bio to bring each member's personality out a little.
 
-[A screenshot of the members section. It shows six profile pictures of three women and three men.](assets/images/documentation/meet-group-rm.jpg)
+[A screenshot of the members section. It shows six profile pictures of three women and three men.](assets/images/documentation/members-pg-rm.jpg)
 
 1. **What is on?**
 
