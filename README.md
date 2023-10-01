@@ -90,7 +90,7 @@ Due to the nature of the website, many of the user goals were mostly the same ac
 
 I included a schedule page to help users easily find what games or campaigns were running. There is a small table that includes what games and levels are currently being played. There is also some information and booking options on the page with current events.
 
-[A screenshot showing a table of games and a row of images for booking](assets/images/documentation/schedule-screenshot.jpg)
+[A screenshot showing a table of games and a row of images for booking](assets/images/documentation/whats-on-pg-rm.jpg)
 
 1. **Check for updates**
 
@@ -115,6 +115,7 @@ I included an alert just under my hero image for a survey to join a waiting list
 Help users find out more about members or to follow the group's social media platforms. This will also be used to build a fan base. I added social media links and follow-me buttons for individual members.
 
 [A screenshot of the Footer with social media links](assets/images/documentation/footer.jpg)
+
 [A screenshot of the follow me buttons on the member cards.](assets/images/documentation/follow-me.jpg)
 
 ### **Group Goals**
@@ -439,6 +440,7 @@ I found the results on the iPhone 12 to be very satisfactory.
 
 - With these results, I was able to see padding needed to be added to my contact form on mobile and smaller screen devices. I was able to achieve the final version by changing the forms max width to 90%.
 - I also found a issue with the logo in my navigation bar. I had to set a few media queries over smaller devices to allow the full logo to be read.
+- I decided to remove some of the content text from the schedule page to make the site look more crisp and clear.
 
 Here is the edited contact form:
 
@@ -499,7 +501,7 @@ I had some issues with my mobile score, I have a slow home connection which I fe
 
 I decided to also try GTmetrix to test the whole site and come up with a good result.
 
-![GTmetrix Results](assets/images/documentation/performance-check.webp)
+[GTmetrix Results](assets/images/documentation/gt-metrix-check.jpg)
 
 #### **Manual Test of Features**
 
