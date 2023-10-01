@@ -320,6 +320,7 @@ I used some pictures the group had taken themselves for the member section. It w
 - Git -Git was used to control versions of the website. I used the Gitpod terminal to commit to Git and Push to GitHub.
 - GitHub: GitHub is used to store project code after it was pushed.
 - Balsamiq: was used to design and create my wireframes.
+- Hoover.css: was used for my navigation menu
 
 ### **Websites**
 
@@ -327,6 +328,9 @@ I used some pictures the group had taken themselves for the member section. It w
 - Survey Monkey: I used Survey Monkey to set up an application form to join the waiting list.
 - Tinypng.com: I used this to compress my image files down so they didn't slow down the pages.
 - imageresizer.com: I used this to resize my files.
+- UI.dev: I used this website to test my responsiveness and take screenshots for my Readme.
+- Unsplash: Used for royalty free images
+- Pexels: Also used for free images.
 
 ### **Future Ideas**
 
@@ -486,7 +490,7 @@ Here are the Results of my desktop lighthouse results.
 
 I had some issues with my mobile score, I have a slow home connection which I feel didn't help but had some issues such as:
 
-- Eliminate render-blocking resources and reduce unused CSS: I felt this was out of the scope of my project and couldn't at the time do much about it. As it wanted me to remove Bootstrap CDN code I didn't feel this was achievable.
+- Eliminate render-blocking resources and reduce unused CSS: I felt this was out of the scope of my project and couldn't at the time do much about it. As it wanted me to remove Bootstrap CDN code that I needed to run my website.
 - Serve static assets with an efficient cache policy: I felt this was too out of the scope of the first project so couldn't do anything about it.
 - The last fault was for an image element. I could not define the width or height to the lighthouses specifications without it not working on Apple devices. So chose to let this one sit.
 
@@ -544,12 +548,12 @@ How to Clone this Repository
 
 ## **Credits**
 
-Firstly I'd love to give a big shout out and thank you to my fellow students, particularly my cohort who have been a great support and help over the weeks.
+June 23 Cohort: Firstly I'd love to give a big shout out and thank you to my fellow students, particularly my cohort who have been a great support and help over the weeks.
 
-I would like to thank my mentor for being approachable, helpful, and on the ball! He took the time to listen and speak to me with understanding and kindness that really made all the difference.
+David Bowers: I would like to thank my mentor for being approachable, helpful, and on the ball. He tookhas the time to listen and speak to me with understanding and kindness that really made all the difference.
 
-I would like to thank my cohort facilitator for keeping my interest and helping the team grow, those weekly planners made a world of difference in the first few weeks!
+Iris Smok: I would like to thank my cohort facilitator for keeping my interest and helping the team grow, those weekly planners made a world of difference in the first few weeks!
 
-A big thanks to the Code Institute staff for all their help
+A big thanks to the Code Institute staff for all their help.
 
-I couldn't have found out half the information I needed without Slack and the community of students, mentors, staff alumni, and my peers who helped me keep going!
+I couldn't have found out half the information I needed without Slack and the community of students, mentors, staff alumni, and my peers who helped me keep going.

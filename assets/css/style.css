@@ -215,3 +215,28 @@ p {
     left: 8%;
   }
 }
+
+@media screen and (max-width: 280px) {
+  #logo {
+    letter-spacing: 0px;
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 280px) {
+  .fa-dice-d20 {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 280px) {
+  .index-hq {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 280px) {
+  .whats-on {
+    font-size: 40px;
+  }
+}
