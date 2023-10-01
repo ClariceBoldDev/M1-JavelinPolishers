@@ -441,9 +441,12 @@ I found the results on the iPhone 12 to be very satisfactory.
 
 ##### **Samsung A51**
 
-[Screenshot of Ipad air](assets/images/documentation/samsung-a51.jpg)
+[Screenshot of A51](assets/images/documentation/samsung-a51.jpg)
 
-With these results, I was able to see padding needed to be added to my contact form. I was able to achieve the final version by changing the forms mas width to 90%.
+**Mobile Testing Results**
+
+- With these results, I was able to see padding needed to be added to my contact form on mobile and smaller screen devices. I was able to achieve the final version by changing the forms max width to 90%.
+- I also found a issue with the logo in my navigation bar. I had to set a few media queries over smaller devices to allow the full logo to be read.
 
 #### **Browser Compatability**
 
