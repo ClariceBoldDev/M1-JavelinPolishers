@@ -9,6 +9,13 @@ hr {
   width: 50%;
 }
 
+h1 {
+  font-family: "Oswald 100", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 200%;
+}
+
 /* ------Buttons------ */
 
 .card-footer {
@@ -90,8 +97,13 @@ hr {
 /* ------Survey Link------ */
 
 .survey-link {
-  text-transform: uppercase;
-  color: #1794a2;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+}
+
+.survey-alert {
+  text-transform: capitalize;
+  letter-spacing: 1px;
 }
 
 /* ------Index Page------ */
@@ -223,54 +235,5 @@ p {
     text-align: center;
     top: 3%;
     left: 8%;
-  }
-}
-
-@media screen and (max-width: 280px) {
-  #logo {
-    letter-spacing: 0px;
-    font-size: 18px;
-  }
-}
-
-@media screen and (max-width: 280px) {
-  .fa-dice-d20 {
-    font-size: 15px;
-  }
-}
-
-@media screen and (max-width: 280px) {
-  .index-hq {
-    font-size: 30px;
-  }
-}
-
-@media screen and (max-width: 280px) {
-  .whats-on {
-    font-size: 35px;
-  }
-}
-
-@media screen and (max-width: 348px) {
-  .logo {
-    font-size: 25px;
-  }
-}
-
-@media screen and (max-width: 348px) {
-  .fa-dice-d20 {
-    font-size: 17px;
-  }
-}
-
-@media screen and (max-width: 339px) {
-  .logo {
-    font-size: 13px;
-  }
-}
-
-@media screen and (max-width: 339px) {
-  .fa-dice-d20 {
-    font-size: 12px;
   }
 }
