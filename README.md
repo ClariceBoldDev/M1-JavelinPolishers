@@ -16,13 +16,13 @@ This is the readme file and documentation to go alongside this project. The proj
 
 ### [Project Planning & User Experience UX](#project-planning-and-user-experience)
 
-- [ Purpose of Project User Experience](#purpose-of-the-website-and-client-goals)
+- [Purpose of Project User Experience](#purpose-of-the-website-and-client-goals)
 
-- [ About the group](#about-the-group)
+- [About the group](#about-the-group)
 
-- [ User Goals (Meeting User Goals, First Visit, Returning and Frequent users)](#user-goals)
+- [User Goals (Meeting User Goals, First Visit, Returning and Frequent users)](#user-goals)
 
-- [ The Five Planes](#the-five-planes)
+- [The Five Planes](#the-five-planes)
 
 ### [Design Layout & Structure](#design-layout-and-structure)
 
@@ -343,6 +343,7 @@ We could also have a more detailed calendar and schedule, with a more thorough b
 
 ### **W3C**
 
+I tested my site using W3C and these were my final results.
 Due to an issue with w3c pulling from the Bootstrap CDN link, I was advised to test my code via the Direct Code Input method.
 The only issue was Codeanywhere now using trailing slash that the validator picked up on but is now acceptable syntax.
 
@@ -386,8 +387,7 @@ I got some Neurodivergant friends to review the site and they found that a few o
 
 I tested my sight for accessibility using Lighthouse here are the results.
 
-
-
+#### Accessibility Scores
 
 Evidence and screenshots for my tests are included in my [lighthouse performance section](#lighthouse)
 
@@ -465,14 +465,14 @@ Microsoft Edge: Performed well and with no issues.
 
 Here were the issues the W3C pulled, and the corrections needed.
 
-[Home Page Errors](assets/images/documentation/index-errors.jpg).
+[Home Page Errors](assets/documentation/index-errors.jpg).
 
 Index Page Error report: The error report came back with two errors on my 'make-a-wish' image. I added the width and height as an inline styling. So needed to adjust and add it to the CSS instead.
 
-[Members Page Errors](assets/images/documentation/members-errors.jpg)
+[Members Page Errors](assets/documentation/members-errors.jpg)
 I had three errors: One was a simple stray div which was removed. The other was my hr element which had inline styling I added the CSS. I also need to change a section element to a div in my social media links.
 
-[Schedule Page Errors](assets/images/documentation/schedule-errors.jpg)
+[Schedule Page Errors](assets/documentation/schedule-errors.jpg)
 I only had one error on this page and it was a simple stray div tag end which was easily removed.
 
 There were no errors on my contact page.
@@ -489,26 +489,22 @@ When going through my website I found the following bugs.
 
 #### **Lighthouse**
 
+**Mobile Results:**
+
+![Mobile Results](assets/documentation/lighthouse-mobile-pass.jpg)
+
 **Desktop Results:**
 
 Here are the Results of my desktop lighthouse results.
-![Desktop Results](assets/images/documentation/desktop-lighthouse.jpg)
+![Desktop Results](assets/documentation/lighthouse-desktop-pass.jpg)
 
-**Mobile Results:**
-
-![Mobile Results](assets/images/documentation/lighthouse-mobile.jpg)
-
-I had some issues with my mobile score, I have a slow home connection which I feel didn't help but had some issues such as:
-
-- Eliminate render-blocking resources and reduce unused CSS: I could see that lighthouse was picking up on my bootstrap and fontawesome links and it was slowing the sight down however this wasnt a possible removable option to increase speed.
-- Serve static assets with an efficient cache policy: I felt this was out of the scope of the first project so decided to leave it in my first project.
-- The last fault was for some image elements. I could not define the width or height to the lighthouses specifications without the images not working on Apple devices. No other deivces had issues. I did then make sure all images were webP pages.
+Whilst I was happy with both my performance scores. I would was aware there was a slighty drop in Mobile results. One issue I had which slightly lowered my score was not having set height on a few images. I choose this option as it made the images and website responsive on Apple devices, and issue I could not solve without the choosen code.
 
 #### **GTmetrix**
 
 I decided to also try GTmetrix to test the whole site and come up with a good result.
 
-[GTmetrix Results](assets/images/documentation/gt-metrix-check.jpg)
+[GTmetrix Results](assets/documentation/gtmetrix-score.jpg)
 
 #### **Manual Test of Features**
 
