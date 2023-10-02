@@ -2,7 +2,7 @@
 
 Created by Clarice Boldon
 
-![Responsive Images on various devices](assets/images/documentation/responsive-imgs.jpg)
+![Responsive Images on various devices](assets/documentation/responsive-imgs.jpg)
 
 The live site link is: [Javelin Polishers Live Website](https://clariceboldon.github.io/Milestone1-JavelinPolishers/)
 
@@ -84,41 +84,42 @@ Due to the nature of the website, many of the user goals were mostly the same ac
 ##### **Who are the group?**
 
 1. **Who are the group members?**
-   I included a members page, to allow visitors to view the members of the group. I wanted to create a quick and basic social story to help neurodivergent users have a chance to visually see and get a little understanding of the group. I also included member titles and a short bio to bring each member's personality out a little.
 
-[A screenshot of the members section. It shows six profile pictures of three women and three men.](assets/images/documentation/members-pg-rm.jpg)
+- I included a members page, to allow visitors to view the members of the group. I wanted to create a quick and basic social story to help neurodivergent users have a chance to visually see and get a little understanding of the group. I also included member titles and a short bio to bring each member's personality out a little.
+
+[A screenshot of the members section. It shows six profile pictures of three women and three men.](assets/documentation/members-pg-rm.jpg)
 
 1. **What is on?**
 
-I included a schedule page to help users easily find what games or campaigns were running. There is a small table that includes what games and levels are currently being played. There is also some information and booking options on the page with current events.
+   - I included a schedule page to help users easily find what games or campaigns were running. There is a small table that includes what games and levels are currently being played. There is also some information and booking options on the page with current events.
 
-[A screenshot showing a table of games and a row of images for booking](assets/images/documentation/whats-on-pg-rm.jpg)
+[A screenshot showing a table of games and a row of images for booking](assets/documentation/whats-on-pg-rm.jpg)
 
 1. **Check for updates**
 
-Because the group wasn't particularly active yet with streaming, I included a future streaming event on the home page. This was also accompanied by information on how to support them when they run a charity stream in December. I included a dummy link to GoFundMe as this is what the group is most likely to use.
+   - Because the group wasn't particularly active yet with streaming, I included a future streaming event on the home page. This was also accompanied by information on how to support them when they run a charity stream in December. I included a dummy link to GoFundMe as this is what the group is most likely to use.
 
-[A screenshot showing information on a Make a Wish charity fundraising event](assets/images/documentation/events.jpg)
+[A screenshot showing information on a Make a Wish charity fundraising event](assets/documentation/events.jpg)
 
 1. **Contact the Group**
 
-A Form was added to a contact page to make it easy for users to send a message or ask a question.
+   - A Form was added to a contact page to make it easy for users to send a message or ask a question.
 
-[A screenshot of the contact form](assets/images/documentation/contact-form.jpg)
+[A screenshot of the contact form](assets/documentation/contact-form.jpg)
 
 1. **To join a waiting list**
 
-I included an alert just under my hero image for a survey to join a waiting list for a space with the gaming group.
+   - I included an alert just under my hero image for a survey to join a waiting list for a space with the gaming group.
 
-[A screenshot of the alert and survey link](assets/images/documentation/alert.jpg)
+[A screenshot of the alert and survey link](assets/documentation/alert.jpg)
 
 1. **Get social**
 
-Help users find out more about members or to follow the group's social media platforms. This will also be used to build a fan base. I added social media links and follow-me buttons for individual members.
+   - Help users find out more about members or to follow the group's social media platforms. This will also be used to build a fan base. I added social media links and follow-me buttons for individual members.
 
-[A screenshot of the Footer with social media links](assets/images/documentation/footer.jpg)
+[A screenshot of the Footer with social media links](assets/documentation/footer.jpg)
 
-[A screenshot of the follow me buttons on the member cards.](assets/images/documentation/follow-me.jpg)
+[A screenshot of the follow me buttons on the member cards.](assets/documentation/follow-me.jpg)
 
 ### **Group Goals**
 
@@ -131,19 +132,19 @@ Help users find out more about members or to follow the group's social media pla
 
 1. **Chart**
 
-To meet the group's goals I added a clear table on the schedule that gave a simple but concise look at the current campaigns being played and character levels.
+   - To meet the group's goals I added a clear table on the schedule that gave a simple but concise look at the current campaigns being played and character levels.
 
 1. **Professional Website**
 
-To meet the needs of the group I tried to keep the color palette and look as clean as possible. The information provided was limited so I tried to make sure there was enough to cover the pages and offer enough detail.
+   - To meet the needs of the group I tried to keep the color palette and look as clean as possible. The information provided was limited so I tried to make sure there was enough to cover the pages and offer enough detail.
 
 1. **Online Presence**
 
-A simple goal was to just get them online with a website, that they could show to friends, family, or interested parties.
+   - A simple goal was to just get them online with a website, that they could show to friends, family, or interested parties.
 
 1. **Waiting List**
 
-The group wasn't sure how they wanted to implement a waiting list system but came up with a few questions. I was able to add a Survey Monkey link with a range of questions which was then directed back to the group email.
+   - The group wasn't sure how they wanted to implement a waiting list system but came up with a few questions. I was able to add a Survey Monkey link with a range of questions which was then directed back to the group email.
 
 ### **First Time Visitor**
 
@@ -156,27 +157,27 @@ The group wasn't sure how they wanted to implement a waiting list system but cam
 
 1. **Contact the Group**
 
-A simple easy way for first-time visitors to contact the group was through a straightforward form on the Contact Me page.
+   - A simple easy way for first-time visitors to contact the group was through a straightforward form on the Contact Me page.
 
 1. **What being played?**
 
-I included a simple table to show what games were being played and at what level, this can be found on the schedule page.
+   - I included a simple table to show what games were being played and at what level, this can be found on the schedule page.
 
 1. **Social Media**
 
-A potential first-time visitor would likely want to find out more and see if the group had a social media presence. I included a follow me button on all members and social media links in the footer. It should be noted that not all players at the time of creating the website had public social media profiles or the group as a whole so dummy links were added.
+   - A potential first-time visitor would likely want to find out more and see if the group had a social media presence. I included a follow me button on all members and social media links in the footer. It should be noted that not all players at the time of creating the website had public social media profiles or the group as a whole so dummy links were added.
 
 1. **Waiting List**
 
-   As with the user goals a waiting list was quite likely to be the most important feature on the website so I added a Survey Link.
+   - As with the user goals a waiting list was quite likely to be the most important feature on the website so I added a Survey Link.
 
 1. **Who is who?**
 
-Much like the user needs first-time visitors would most likely want to see who was in the group. Because our group is heavily neurodivergent they wanted to add a little friendly tagline to each member. The hope would be contacting the group would be less intimidating.
+   - Much like the user needs first-time visitors would most likely want to see who was in the group. Because our group is heavily neurodivergent they wanted to add a little friendly tagline to each member. The hope would be contacting the group would be less intimidating.
 
 1. **Event Booking**
 
-   A list of events and tickets to Ticketsource were added to the what's on/schedule page
+   - A list of events and tickets to Ticketsource were added to the what's on/schedule page
 
 ### **Returning Visitors**
 
@@ -294,6 +295,8 @@ Another thing I noticed is that large walls of texts are incredibly off-putting 
   Part of my research was to find out which fonts were best for accessibility and the following came up: Tahoma, Calibri, Helvetica, Arial, Verdana & Times New Roman.
   Slab Serif fonts including Arvo, Museo Slab, and Rockwell were accessible but for headings rather than body text.
 
+  During testing, I decided to switch out my fonts for Oswald and Roboto after asking family and friends, they found these more user friendly.
+
 ## **Imagery**
 
 - Hero Image: Photo by Timothy Dykes on Unsplash [Timothy Dykes](https://unsplash.com/@timothycdykes)
@@ -368,6 +371,7 @@ Some other suggestions were made regarding style but with the impending deadline
 ### **Family & Friends Testing**
 
 I also asked family, friends, and members of the gaming group to go over and look at the site and give honest feedback. One issue was that it was far too much information. So I removed a few sentences from the History section on the index page and then shortened the Members page information and the bios. It cleared up the site and made a vast difference to those who were neurodivergent.
+The other thing the group pulled up was they didnt like my choice of fonts. I originally went with Arvo and Tahoma as these seemed to be the most accessible. I gave them a choice of what Oswald and Arvo looke like and they preferred that.
 
 ### **Accessibility**
 
