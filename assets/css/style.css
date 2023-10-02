@@ -250,3 +250,27 @@ p {
     font-size: 35px;
   }
 }
+
+@media screen and (max-width: 348px) {
+  .logo {
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 348px) {
+  .fa-dice-d20 {
+    font-size: 17px;
+  }
+}
+
+@media screen and (max-width: 339px) {
+  .logo {
+    font-size: 13px;
+  }
+}
+
+@media screen and (max-width: 339px) {
+  .fa-dice-d20 {
+    font-size: 12px;
+  }
+}

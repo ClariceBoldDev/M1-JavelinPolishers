@@ -497,7 +497,7 @@ I had some issues with my mobile score, I have a slow home connection which I fe
 
 - Eliminate render-blocking resources and reduce unused CSS: I could see that lighthouse was picking up on my bootstrap and fontawesome links and it was slowing the sight down however this wasnt a possible removable option to increase speed.
 - Serve static assets with an efficient cache policy: I felt this was out of the scope of the first project so decided to leave it in my first project.
-- The last fault was for an image element. I could not define the width or height to the lighthouses specifications without the images not working on Apple devices. I did then make sure all images were webP pages.
+- The last fault was for some image elements. I could not define the width or height to the lighthouses specifications without the images not working on Apple devices. No other deivces had issues. I did then make sure all images were webP pages.
 
 #### **GTmetrix**
 
