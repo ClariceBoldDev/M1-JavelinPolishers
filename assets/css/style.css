@@ -272,3 +272,10 @@ p {
     letter-spacing: 0;
   }
 }
+
+@media screen and (max-width: 277px) {
+  #logo {
+    font-size: 90%;
+    letter-spacing: 0;
+  }
+}

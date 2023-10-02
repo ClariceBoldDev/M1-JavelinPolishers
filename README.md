@@ -343,12 +343,12 @@ We could also have a more detailed calendar and schedule, with a more thorough b
 
 ### **W3C**
 
-I tested my site using W3C and these were my final results.
+Due to an issue with w3c pulling from the Bootstrap CDN link, I was advised to test my code via the Direct Code Input method.
+The only issue was Codeanywhere now using trailing slash that the validator picked up on but is now acceptable syntax.
+
 My results from W3C:
 
 [Index Page Pass screenshot](assets/images/documentation/index-pass.jpg)
-
-Here is the tested page finished with direct code input, the only issue was Codeanywhere now using trailing slash that the validator picked up on but is now acceptable syntax.
 
 [Members Page Pass](assets/images/documentation/member-pass.jpg)
 
@@ -386,25 +386,26 @@ I got some Neurodivergant friends to review the site and they found that a few o
 
 I tested my sight for accessibility using Lighthouse here are the results.
 
-#### **Home Page**
 
-[91 Accessibility Score](assets/images/documentation/access-home.jpg)
-I received a total score of 91.
 
-#### **Members Page Accessibility**
 
-[91 Accessibility Score](assets/images/documentation/access-member.jpg)
-I gained a 91 score on the members page also.
+Evidence and screenshots for my tests are included in my [lighthouse performance section](#lighthouse)
 
-#### **Schedule Page**
+##### Home Page
 
-[92 Accessibility Score](assets/images/documentation/access-schedule.jpg)
-For the schedule page, I received a 92 mark.
+- I received a total score of 100.
 
-#### **Contact Page**
+##### Members Page
 
-[92 Accessibility Score](assets/images/documentation/access-contact.jpg)
-For the last page, I got a 92 score.
+- I received a total score of 98.
+
+##### Schedule Page
+
+- I received a total score of 99.
+
+##### Contact Page
+
+- I received a total score of 100
 
 #### **Responsiveness**
 
@@ -422,25 +423,25 @@ I used the following devices to test:
 
 ##### **Iphone SE**
 
-[Screenshot of iPhone SE Tests](assets/images/documentation/iphone-se-results.jpg)
+[Screenshot of iPhone SE Tests](assets/documentation/iphone-se-results.jpg)
 Results: I had a good experience with the iPhone SE.
 
 ##### **iPhone 12 Pro**
 
-[Screenshot of iPhone 12 Pro Tests](assets/images/documentation/iphone-12-pro.jpg)
+[Screenshot of iPhone 12 Pro Tests](assets/documentation/iphone-12-pro.jpg)
 I found the results on the iPhone 12 to be very satisfactory.
 
 ##### **Samsung Galaxy S8+**
 
-[Screenshot of Samsung Galaxy S8+](assets/images/documentation/samsun-galaxy-s8.jpg)
+[Screenshot of Samsung Galaxy S8+](assets/documentation/samsun-galaxy-s8.jpg)
 
 ##### **Ipad Air**
 
-[Screenshot of Ipad air](assets/images/documentation/ipad-air.jpg)
+[Screenshot of Ipad air](assets/documentation/ipad-air.jpg)
 
 ##### **Samsung A51**
 
-[Screenshot of A51](assets/images/documentation/samsung-a51.jpg)
+[Screenshot of A51](assets/documentation/samsung-a51.jpg)
 
 **Mobile Testing Results**
 
