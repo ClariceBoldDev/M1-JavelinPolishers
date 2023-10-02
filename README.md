@@ -27,7 +27,7 @@ This is the readme file and documentation to go alongside this project. The proj
 ### [Design Layout & Structure](#design-layout-and-structure)
 
 - [Wireframe](#wireframes)
-- [Structure](#structure)
+- [Structure](#website-structure)
 - [Colour Palette](#colour-palette)
 - [Typography](#typography)
 - [Imagery](#imagery)
@@ -35,7 +35,7 @@ This is the readme file and documentation to go alongside this project. The proj
 ### [Technologies Used](#the-technologies-used)
 
 - [Languages](#languages)
-- [Frameworks, Libraries, and Programs used](#frameworks-libraries-and-programmes)
+- [Frameworks, Libraries & Programs](#frameworks)
 - [Websites](#websites)
 - [Future Ideas](#future-ideas)
 
@@ -237,17 +237,17 @@ The visual look of the website is very important. As many of the group is Neurod
 
 ### **Wireframes**
 
-#### **Sitemap**: [Here is the wireframe for my sitemap](assets/images/documentation/sitemap.png "Sitemap")
+#### **Sitemap**: [Here is the wireframe for my sitemap](assets/documentation/sitemap.png "Sitemap")
 
-#### **Index Page**: [This is the index page wireframe](assets/images/documentation/home-wireframe.jpg "Home Page")
+#### **Index Page**: [This is the index page wireframe](assets/documentation/home-wireframe.jpg "Home Page")
 
-#### **Members Page**: [This is the wireframe for my member's page](assets/images/documentation/member-wireframe.png "Members")
+#### **Members Page**: [This is the wireframe for my member's page](assets/documentation/member-wireframe.png "Members")
 
-#### **Schedule**: [Here is the wireframe for my schedule page](assets/images/documentation/schedule-wireframe.png "Schedule")
+#### **Schedule**: [Here is the wireframe for my schedule page](assets/documentation/schedule-wireframe.png "Schedule")
 
-#### **Contact**: [This is the wireframe for my contact page](assets/images/documentation/contact-wireframe.png "Contact")
+#### **Contact**: [This is the wireframe for my contact page](assets/documentation/contact-wireframe.png "Contact")
 
-### **Structure**
+### **Website Structure**
 
 Every page will contain the d20 header image and an alert to an application form for new members (to be put on a waiting list). I will also have a footer and location map on each page. I will include four pages: Home, Members, Schedule, and Contact.
 
@@ -268,7 +268,7 @@ Every page will contain the d20 header image and an alert to an application form
 
 - **Contact**
   I have included a simple bootstrap form to help visitors get in contact with the group. I have added a form dump to Code Institute for my form for this project.
-  [A screenshot of the form success](assets/images/documentation/form-success.jpg "Form Dump Success")
+  [A screenshot of the form success](assets/documentation/form-success.jpg "Form Dump Success")
 
 - **Footer**
   For my footer, I added the location map for quick ease in finding the group. I also added social media links these were all dummy links only going to the websites themselves. The group had yet to set up the social media sites but was looking at doing so in the near future.
@@ -283,7 +283,7 @@ Every page will contain the d20 header image and an alert to an application form
 
 I used Bootstrap's built-in colors to bring my website to life. However, I did use some flashes of color throughout the site. This included icons.
 
-![Color Palette](assets/images/documentation/palette.png "My colours")
+![Color Palette](assets/documentation/palette.png "My colours")
 
 ## **Typography**
 
@@ -313,7 +313,9 @@ I used some pictures the group had taken themselves for the member section. It w
 - Html 5
 - CSS3
 
-### **Frameworks, Libraries, and Programmes**
+### Frameworks
+
+#### Framework, Libraries, and Programmes
 
 - Bootstrap - At the time of writing this readme I was using the latest version of Bootstrap which was v5.3.
 - Fontawesome.com: Was used for Icons across the site.
@@ -349,19 +351,15 @@ The only issue was Codeanywhere now using trailing slash that the validator pick
 
 My results from W3C:
 
-[Index Page Pass screenshot](assets/images/documentation/index-pass.jpg)
+[Index Page Pass screenshot](assets/documentation/index-pass.jpg)
 
-[Members Page Pass](assets/images/documentation/member-pass.jpg)
+[Members Page Pass](assets/documentation/member-pass.jpg)
 
-Here is the finished page, done with direct input.
+[Schedule Page Pass](assets/documentation/schedule-pass.jpg)
 
-[Schedule Page Pass](assets/images/documentation/schedule-pass.jpg)
+[Contact Page Pass](assets/documentation/contact-pass.jpg)
 
-This is the pass page done via direct input
-
-[Contact Page Pass](assets/images/documentation/contact-pass.jpg)
-
-My CSS results: [CSS Pass](assets/images/documentation/css-pass.png)
+My CSS results: [CSS Pass](assets/documentation/css-pass.png)
 
 ### **Peer Review**
 
@@ -451,7 +449,7 @@ I found the results on the iPhone 12 to be very satisfactory.
 
 Here is the edited contact form:
 
-[Contact Form after editing:](assets/images/documentation/improved-contact.webp)
+[Contact Form after editing:](assets/documentation/improved-contact.webp)
 
 ### **Browser Compatability**
 
@@ -491,12 +489,12 @@ When going through my website I found the following bugs.
 
 **Mobile Results:**
 
-![Mobile Results](assets/documentation/lighthouse-mobile-pass.jpg)
+[Mobile Results](assets/documentation/lighthouse-mobile-pass.jpg)
 
 **Desktop Results:**
 
 Here are the Results of my desktop lighthouse results.
-![Desktop Results](assets/documentation/lighthouse-desktop-pass.jpg)
+[Desktop Results](assets/documentation/lighthouse-desktop-pass.jpg)
 
 Whilst I was happy with both my performance scores. I would was aware there was a slighty drop in Mobile results. One issue I had which slightly lowered my score was not having set height on a few images. I choose this option as it made the images and website responsive on Apple devices, and issue I could not solve without the choosen code.
 
@@ -562,7 +560,7 @@ How to Clone this Repository
 
 June 23 Cohort: Firstly I'd love to give a big shout out and thank you to my fellow students, particularly my cohort who have been a great support and help over the weeks.
 
-David Bowers: I would like to thank my mentor for being approachable, helpful, and on the ball. He tookhas the time to listen and speak to me with understanding and kindness that really made all the difference.
+David Bowers: I would like to thank my mentor for being approachable, helpful, and on the ball. He has always taken the time to listen and speak to me with understanding and kindness that really made all the difference.
 
 Iris Smok: I would like to thank my cohort facilitator for keeping my interest and helping the team grow, those weekly planners made a world of difference in the first few weeks!
 
