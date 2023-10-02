@@ -237,3 +237,38 @@ p {
     left: 8%;
   }
 }
+
+@media screen and (max-width: 335px) {
+  #cover-text {
+    font-size: 80%;
+    font-family: "Oswald 100", sans-serif;
+    text-transform: capitalize;
+    text-align: center;
+    top: 3%;
+    left: 1px;
+  }
+}
+
+@media screen and (max-width: 307px) {
+  #cover-text {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 280px) {
+  .index-hq {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 280px) {
+  .whats-on {
+    font-size: 35px;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  #logo {
+    font-size: 100%;
+    letter-spacing: 0;
+  }
+}
