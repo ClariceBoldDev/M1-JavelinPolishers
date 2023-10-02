@@ -12,7 +12,7 @@ This is the main website of my local gaming group.
 
 This is the readme file and documentation to go alongside this project. The project is to build a website for my local gaming club. The project is being built using HTML5, CSS, and Bootstrap as my first milestone project. This is part of Code Institute's Diploma in Web Application.
 
-## **Contents**
+## [Contents](#contents)
 
 ### [Project Planning & User Experience UX](#project-planning-and-user-experience)
 
@@ -296,10 +296,10 @@ Another thing I noticed is that large walls of texts are incredibly off-putting 
 
 ## **Imagery**
 
-- Hero Image: Photo by Timothy Dykes on Unsplash
-- Gameplay Image: Photo by Robert Coelho on Unsplash
-- Handrawrn map image: Photo by Patrick Fobian on Unsplash
-- Paint brushes: By Ravi Kant on Pexels
+- Hero Image: Photo by Timothy Dykes on Unsplash [Timothy Dykes](https://unsplash.com/@timothycdykes)
+- Gameplay Image: Photo by Robert Coelho on Unsplash [Robert Coelho](https://unsplash.com/@robert_coelho)
+- Handrawrn map image: Photo by Patrick Fobian on Unsplash [Patrick Fobian](https://unsplash.com/@herebebears)
+- Paint brushes: By Ravi Kant on Pexels [Ravi Kant](https://www.pexels.com/@ravikant/)
 
 I used some pictures the group had taken themselves for the member section. It was quickly apparent how much better professional images would look. But this wasn't possible for this project. I will try to make sure in the future, professional images are available. I also used some royalty-free images to bolster the pages and make everything pop out.
 
